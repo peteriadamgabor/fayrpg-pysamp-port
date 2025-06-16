@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/badge/status-discontinued-red)](.)
 [![open.mp](https://img.shields.io/badge/server-open.mp_v1.4-blue)](https://open.mp/)
 [![PySAMP](https://img.shields.io/badge/framework-PySAMP-blue.svg)](https://github.com/pysamp)
-[![License](https://img.shields.io/github/license/peteriadamgabor/fayrpg-pysamp-port)](./LICENSE)
+[![License](https://img.shields.io/github/license/peteriadamgabor/fayrpg-pysamp-port)](https://github.com/peteriadamgabor/fayrpg-pysamp-port/blob/master/LICENSE.md)
 
 This repository houses the source code for a modernized software port of a legacy Grand Theft Auto: San Andreas gamemode. It is a comprehensive translation of the 2011 'Version 2.0' of the Hungarian FayRPG server (est. 2008), converting the original Pawn implementation to Python via the `PySAMP` framework.
 
