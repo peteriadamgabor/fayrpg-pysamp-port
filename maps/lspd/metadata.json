@@ -1,0 +1,22 @@
+{
+  "name": "LSPD HQ",
+  "description": "",
+  "author": "",
+  "created": "2024-09-15",
+  "position": [
+    0.0,
+    0.0,
+    0.0,
+    0,
+    0
+  ],
+  "models": [
+    {
+      "base_id": 6060,
+      "new_id": -1002,
+      "dff": "lspd/posterunek.dff",
+      "txd": "lspd/posterunek.txd"
+    }
+  ],
+  "is_active": true
+}

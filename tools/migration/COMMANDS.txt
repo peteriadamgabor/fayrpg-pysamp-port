@@ -1,0 +1,11 @@
+Useful commands
+In this section, I’ll describe some useful Alembic commands, but I recommend exploring the Alembic commands page to learn more.
+
+Display the current revision for a database: alembic current.
+View migrations history: alembic history --verbose.
+Revert all migrations:alembic downgrade base.
+Revert migrations one by one: alembic downgrade -1.
+Apply all migrations:alembic upgrade head.
+Apply migrations one by one: alembic upgrade +1.
+Display all raw SQL: alembic upgrade head --sql.
+Reset the database: alembic downgrade base && alembic upgrade head.

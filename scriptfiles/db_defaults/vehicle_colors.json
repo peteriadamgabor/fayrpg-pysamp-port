@@ -1,0 +1,2306 @@
+[
+  {
+    "gta_id": 0,
+    "rgb": "(0, 0, 0)",
+    "hex": "000000",
+    "name": "Fekete",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 1,
+    "rgb": "(245, 245, 245)",
+    "hex": "F5F5F5",
+    "name": "Füstfehér",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 2,
+    "rgb": "(42, 119, 161)",
+    "hex": "2A77A1",
+    "name": "Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 3,
+    "rgb": "(132, 4, 16)",
+    "hex": 840410,
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 4,
+    "rgb": "(38, 55, 57)",
+    "hex": 263739,
+    "name": "Tompa cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 5,
+    "rgb": "(134, 68, 110)",
+    "hex": "86446E",
+    "name": "Tompa lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 6,
+    "rgb": "(215, 142, 16)",
+    "hex": "D78E10",
+    "name": "Narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 7,
+    "rgb": "(76, 117, 183)",
+    "hex": "4C75B7",
+    "name": "Búzavirágkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 8,
+    "rgb": "(189, 190, 198)",
+    "hex": "BDBEC6",
+    "name": "Világos szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 9,
+    "rgb": "(94, 112, 114)",
+    "hex": null,
+    "name": "Kadétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 10,
+    "rgb": "(70, 89, 122)",
+    "hex": "46597A",
+    "name": "Palaszürke kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 11,
+    "rgb": "(101, 106, 121)",
+    "hex": "656A79",
+    "name": "Palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 12,
+    "rgb": "(93, 126, 141)",
+    "hex": "5D7E8D",
+    "name": "Világos acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 13,
+    "rgb": "(88, 89, 90)",
+    "hex": "58595A",
+    "name": "Sötétszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 14,
+    "rgb": "(214, 218, 214)",
+    "hex": "D6DAD6",
+    "name": "Nagyon világosszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 15,
+    "rgb": "(156, 161, 163)",
+    "hex": "9CA1A3",
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 16,
+    "rgb": "(51, 95, 63)",
+    "hex": "335F3F",
+    "name": "Sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 17,
+    "rgb": "(115, 14, 26)",
+    "hex": "730E1A",
+    "name": "Burgundivörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 18,
+    "rgb": "(123, 10, 42)",
+    "hex": "7B0A2A",
+    "name": "Mély bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 19,
+    "rgb": "(159, 157, 148)",
+    "hex": "9F9D94",
+    "name": "Világos taupe szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 20,
+    "rgb": "(59, 78, 120)",
+    "hex": "3B4E78",
+    "name": "Sötét palakék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 21,
+    "rgb": "(115, 46, 62)",
+    "hex": "732E3E",
+    "name": "Rózsafa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 22,
+    "rgb": "(105, 30, 59)",
+    "hex": "691E3B",
+    "name": "Bíbor",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 23,
+    "rgb": "(150, 145, 140)",
+    "hex": "96918C",
+    "name": "Középszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 24,
+    "rgb": "(81, 84, 89)",
+    "hex": 515459,
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 25,
+    "rgb": "(63, 62, 69)",
+    "hex": "3F3E45",
+    "name": "Lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 26,
+    "rgb": "(165, 169, 167)",
+    "hex": "A5A9A7",
+    "name": "Világosszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 27,
+    "rgb": "(99, 92, 90)",
+    "hex": "635C5A",
+    "name": "Sötét taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 28,
+    "rgb": "(61, 74, 104)",
+    "hex": "3D4A68",
+    "name": "Sötét palakék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 29,
+    "rgb": "(151, 149, 146)",
+    "hex": 979592,
+    "name": "Középszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 30,
+    "rgb": "(66, 31, 33)",
+    "hex": "421F21",
+    "name": "Sötétbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 31,
+    "rgb": "(95, 39, 43)",
+    "hex": "5F272B",
+    "name": "Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 32,
+    "rgb": "(132, 148, 171)",
+    "hex": "8494AB",
+    "name": "Szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 33,
+    "rgb": "(118, 123, 124)",
+    "hex": "767B7C",
+    "name": "Palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 34,
+    "rgb": "(100, 100, 100)",
+    "hex": 646464,
+    "name": "Tompaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 35,
+    "rgb": "(90, 87, 82)",
+    "hex": "5A5752",
+    "name": "Sötét szürkésbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 36,
+    "rgb": "(37, 37, 39)",
+    "hex": 252527,
+    "name": "Sötétszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 37,
+    "rgb": "(45, 58, 53)",
+    "hex": "2D3A35",
+    "name": "Tompa cián-zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 38,
+    "rgb": "(147, 163, 150)",
+    "hex": "93A396",
+    "name": "Szürkészöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 39,
+    "rgb": "(109, 122, 136)",
+    "hex": "6D7A88",
+    "name": "Szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 40,
+    "rgb": "(34, 25, 24)",
+    "hex": 221918,
+    "name": "Nagyon sötétbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 41,
+    "rgb": "(111, 103, 95)",
+    "hex": "6F675F",
+    "name": "Szürkésbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 42,
+    "rgb": "(124, 28, 42)",
+    "hex": "7C1C2A",
+    "name": "Burgundivörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 43,
+    "rgb": "(95, 10, 21)",
+    "hex": "5F0A15",
+    "name": "Nagyon sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 44,
+    "rgb": "(25, 56, 38)",
+    "hex": 193826,
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 45,
+    "rgb": "(93, 27, 32)",
+    "hex": "5D1B20",
+    "name": "Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 46,
+    "rgb": "(157, 152, 114)",
+    "hex": "9D9872",
+    "name": "Tompa sárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 47,
+    "rgb": "(122, 117, 96)",
+    "hex": "7A7560",
+    "name": "Olívaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 48,
+    "rgb": "(152, 149, 134)",
+    "hex": 989586,
+    "name": "Világos szürkés sárga / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 49,
+    "rgb": "(173, 176, 176)",
+    "hex": "ADB0B0",
+    "name": "Világosszürke / Ezüst",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 50,
+    "rgb": "(132, 137, 136)",
+    "hex": 848988,
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 51,
+    "rgb": "(48, 79, 69)",
+    "hex": "304F45",
+    "name": "Sötét tompa cián-zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 52,
+    "rgb": "(77, 98, 104)",
+    "hex": "4D6268",
+    "name": "Sötét szürkés cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 53,
+    "rgb": "(22, 34, 72)",
+    "hex": 162248,
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 54,
+    "rgb": "(39, 47, 75)",
+    "hex": "272F4B",
+    "name": "Nagyon sötét tompa kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 55,
+    "rgb": "(125, 98, 86)",
+    "hex": "7D6256",
+    "name": "Szürkésbarna / Rózsaszínes barna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 56,
+    "rgb": "(158, 164, 171)",
+    "hex": "9EA4AB",
+    "name": "Világos szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 57,
+    "rgb": "(156, 141, 113)",
+    "hex": "9C8D71",
+    "name": "Tompa narancs / Drapp",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 58,
+    "rgb": "(109, 24, 34)",
+    "hex": "6D1822",
+    "name": "Sötétvörös / Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 59,
+    "rgb": "(78, 104, 129)",
+    "hex": null,
+    "name": "Szürkéskék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 60,
+    "rgb": "(156, 156, 152)",
+    "hex": "9C9C98",
+    "name": "Világosszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 61,
+    "rgb": "(145, 115, 71)",
+    "hex": 917347,
+    "name": "Tompa narancs / Barnássárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 62,
+    "rgb": "(102, 28, 38)",
+    "hex": "661C26",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 63,
+    "rgb": "(148, 157, 159)",
+    "hex": "949D9F",
+    "name": "Világos szürkés cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 64,
+    "rgb": "(164, 167, 165)",
+    "hex": "A4A7A5",
+    "name": "Világosszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 65,
+    "rgb": "(142, 140, 70)",
+    "hex": "8E8C46",
+    "name": "Sötétsárga / Olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 66,
+    "rgb": "(52, 26, 30)",
+    "hex": "341A1E",
+    "name": "Nagyon sötét tompa vörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 67,
+    "rgb": "(106, 122, 140)",
+    "hex": "6A7A8C",
+    "name": "Szürkéskék / Palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 68,
+    "rgb": "(170, 173, 142)",
+    "hex": "AAAD8E",
+    "name": "Világos szürkés sárgászöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 69,
+    "rgb": "(171, 152, 143)",
+    "hex": "AB988F",
+    "name": "Világos szürkés rózsaszín / Rózsaszínes barna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 70,
+    "rgb": "(133, 31, 46)",
+    "hex": "851F2E",
+    "name": "Sötétvörös / Rózsafa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 71,
+    "rgb": "(111, 130, 151)",
+    "hex": "6F8297",
+    "name": "Szürkéskék / Világos acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 72,
+    "rgb": "(88, 88, 83)",
+    "hex": 585853,
+    "name": "Sötétszürke / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 73,
+    "rgb": "(154, 167, 144)",
+    "hex": "9AA790",
+    "name": "Világos szürkészöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 74,
+    "rgb": "(96, 26, 35)",
+    "hex": "601A23",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 75,
+    "rgb": "(32, 32, 44)",
+    "hex": "20202C",
+    "name": "Nagyon sötétkék/lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 76,
+    "rgb": "(164, 160, 150)",
+    "hex": "A4A096",
+    "name": "Világosszürke / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 77,
+    "rgb": "(170, 157, 132)",
+    "hex": "AA9D84",
+    "name": "Világos drapp / Tompa narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 78,
+    "rgb": "(120, 34, 43)",
+    "hex": "78222B",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 79,
+    "rgb": "(14, 49, 109)",
+    "hex": "0E316D",
+    "name": "Sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 80,
+    "rgb": "(114, 42, 63)",
+    "hex": "722A3F",
+    "name": "Sötét rózsaszínes vörös / Rózsafa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 81,
+    "rgb": "(123, 113, 94)",
+    "hex": "7B715E",
+    "name": "Sötét szürkés sárga / Olívaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 82,
+    "rgb": "(116, 29, 40)",
+    "hex": "741D28",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 83,
+    "rgb": "(30, 46, 50)",
+    "hex": "1E2E32",
+    "name": "Nagyon sötét tompa cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 84,
+    "rgb": "(77, 50, 47)",
+    "hex": "4D322F",
+    "name": "Sötét barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 85,
+    "rgb": "(124, 27, 68)",
+    "hex": "7C1B44",
+    "name": "Sötét magenta / Élénk rózsaszín",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 86,
+    "rgb": "(46, 91, 32)",
+    "hex": "2E5B20",
+    "name": "Sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 87,
+    "rgb": "(57, 90, 131)",
+    "hex": "395A83",
+    "name": "Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 88,
+    "rgb": "(109, 40, 55)",
+    "hex": "6D2837",
+    "name": "Sötét rózsaszínes vörös / Rózsafa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 89,
+    "rgb": "(167, 162, 143)",
+    "hex": "A7A28F",
+    "name": "Világos szürkés sárga / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 90,
+    "rgb": "(175, 177, 177)",
+    "hex": "AFB1B1",
+    "name": "Világosszürke / Ezüst",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 91,
+    "rgb": "(54, 65, 85)",
+    "hex": 364155,
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 92,
+    "rgb": "(109, 108, 110)",
+    "hex": "6D6C6E",
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 93,
+    "rgb": "(15, 106, 137)",
+    "hex": "0F6A89",
+    "name": "Élénk ciánkék / Zöldeskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 94,
+    "rgb": "(32, 75, 107)",
+    "hex": "204B6B",
+    "name": "Sötét acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 95,
+    "rgb": "(43, 62, 87)",
+    "hex": "2B3E57",
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 96,
+    "rgb": "(155, 159, 157)",
+    "hex": "9B9F9D",
+    "name": "Világosszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 97,
+    "rgb": "(108, 132, 149)",
+    "hex": "6C8495",
+    "name": "Szürkéskék / Világos acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 98,
+    "rgb": "(77, 132, 149)",
+    "hex": "4D8495",
+    "name": "Tompa cián / Zöldeskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 99,
+    "rgb": "(174, 155, 127)",
+    "hex": "AE9B7F",
+    "name": "Világos drapp / Tompa narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 100,
+    "rgb": "(64, 108, 143)",
+    "hex": "406C8F",
+    "name": "Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 101,
+    "rgb": "(31, 37, 59)",
+    "hex": "1F253B",
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 102,
+    "rgb": "(171, 146, 118)",
+    "hex": "AB9276",
+    "name": "Drapp / Világosbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 103,
+    "rgb": "(19, 69, 115)",
+    "hex": 134573,
+    "name": "Sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 104,
+    "rgb": "(150, 129, 108)",
+    "hex": "96816C",
+    "name": "Szürkésbarna / Drapp",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 105,
+    "rgb": "(100, 104, 106)",
+    "hex": "64686A",
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 106,
+    "rgb": "(16, 80, 130)",
+    "hex": 105082,
+    "name": "Élénk kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 107,
+    "rgb": "(161, 153, 131)",
+    "hex": "A19983",
+    "name": "Világos szürkés sárga / Drapp",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 108,
+    "rgb": "(56, 86, 148)",
+    "hex": 385694,
+    "name": "Kék / Királykék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 109,
+    "rgb": "(82, 86, 97)",
+    "hex": 525661,
+    "name": "Sötét szürkéskék / Palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 110,
+    "rgb": "(127, 105, 86)",
+    "hex": "7F6956",
+    "name": "Szürkésbarna / Rózsaszínes barna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 111,
+    "rgb": "(140, 146, 154)",
+    "hex": "8C929A",
+    "name": "Világos szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 112,
+    "rgb": "(89, 110, 135)",
+    "hex": 5.96e+89,
+    "name": "Szürkéskék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 113,
+    "rgb": "(71, 53, 50)",
+    "hex": 473532,
+    "name": "Sötét barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 114,
+    "rgb": "(68, 98, 79)",
+    "hex": "44624F",
+    "name": "Sötét tompa zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 115,
+    "rgb": "(115, 10, 39)",
+    "hex": "730A27",
+    "name": "Sötétvörös / Mély bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 116,
+    "rgb": "(34, 52, 87)",
+    "hex": 223457,
+    "name": "Sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 117,
+    "rgb": "(100, 13, 27)",
+    "hex": "640D1B",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 118,
+    "rgb": "(163, 173, 198)",
+    "hex": "A3ADC6",
+    "name": "Nagyon világoskék / Levendulaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 119,
+    "rgb": "(105, 88, 83)",
+    "hex": 695853,
+    "name": "Sötét szürkésvörös / Barnásszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 120,
+    "rgb": "(155, 139, 128)",
+    "hex": "9B8B80",
+    "name": "Világos szürkésbarna / Rózsaszínes szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 121,
+    "rgb": "(98, 11, 28)",
+    "hex": "620B1C",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 122,
+    "rgb": "(91, 93, 94)",
+    "hex": "5B5D5E",
+    "name": "Sötétszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 123,
+    "rgb": "(98, 68, 40)",
+    "hex": 624428,
+    "name": "Sötétbarna / Barna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 124,
+    "rgb": "(115, 24, 39)",
+    "hex": 731827,
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 125,
+    "rgb": "(27, 55, 109)",
+    "hex": "1B376D",
+    "name": "Sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 126,
+    "rgb": "(236, 106, 174)",
+    "hex": "EC6AAE",
+    "name": "Élénk rózsaszín",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 127,
+    "rgb": "(0, 0, 0)",
+    "hex": "000000",
+    "name": "Fekete",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 128,
+    "rgb": "(23, 117, 23)",
+    "hex": 177517,
+    "name": "Zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 129,
+    "rgb": "(33, 6, 6)",
+    "hex": 210606,
+    "name": "Nagyon sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 130,
+    "rgb": "(18, 84, 120)",
+    "hex": 125478,
+    "name": "Sötét ciánkék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 131,
+    "rgb": "(69, 42, 13)",
+    "hex": "452A0D",
+    "name": "Sötétbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 132,
+    "rgb": "(87, 30, 30)",
+    "hex": "571E1E",
+    "name": "Sötétvörös / Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 133,
+    "rgb": "(1, 7, 1)",
+    "hex": "010701",
+    "name": "Nagyon sötétzöld (majdnem fekete)",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 134,
+    "rgb": "(37, 34, 90)",
+    "hex": "25225A",
+    "name": "Sötétkék/lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 135,
+    "rgb": "(44, 137, 170)",
+    "hex": "2C89AA",
+    "name": "Élénk ciánkék / Zöldeskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 136,
+    "rgb": "(138, 77, 189)",
+    "hex": "8A4DBD",
+    "name": "Középlila / Ametiszt",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 137,
+    "rgb": "(53, 150, 58)",
+    "hex": "35963A",
+    "name": "Középzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 138,
+    "rgb": "(183, 183, 183)",
+    "hex": "B7B7B7",
+    "name": "Világosszürke / Ezüst",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 139,
+    "rgb": "(70, 76, 141)",
+    "hex": "464C8D",
+    "name": "Palakék / Középkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 140,
+    "rgb": "(132, 136, 140)",
+    "hex": "84888C",
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 141,
+    "rgb": "(129, 120, 103)",
+    "hex": 817867,
+    "name": "Szürkésbarna / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 142,
+    "rgb": "(129, 122, 38)",
+    "hex": "817A26",
+    "name": "Sötétsárga / Olíva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 143,
+    "rgb": "(106, 80, 111)",
+    "hex": "6A506F",
+    "name": "Tompa lila / Mályva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 144,
+    "rgb": "(88, 62, 111)",
+    "hex": "583E6F",
+    "name": "Sötétlila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 145,
+    "rgb": "(140, 185, 114)",
+    "hex": "8CB972",
+    "name": "Világoszöld / Pasztellzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 146,
+    "rgb": "(130, 79, 120)",
+    "hex": "824F78",
+    "name": "Középlila / Mályva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 147,
+    "rgb": "(109, 39, 106)",
+    "hex": "6D276A",
+    "name": "Sötét magenta / Lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 148,
+    "rgb": "(30, 29, 19)",
+    "hex": "1E1D13",
+    "name": "Nagyon sötétbarna/sárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 149,
+    "rgb": "(30, 19, 6)",
+    "hex": null,
+    "name": "Nagyon sötétbarna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 150,
+    "rgb": "(31, 37, 24)",
+    "hex": "1F2518",
+    "name": "Nagyon sötét olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 151,
+    "rgb": "(44, 69, 49)",
+    "hex": "2C4531",
+    "name": "Sötét tompa zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 152,
+    "rgb": "(30, 76, 153)",
+    "hex": "1E4C99",
+    "name": "Élénk kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 153,
+    "rgb": "(46, 95, 67)",
+    "hex": "2E5F43",
+    "name": "Sötétzöld / Tengerzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 154,
+    "rgb": "(30, 153, 72)",
+    "hex": null,
+    "name": "Középzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 155,
+    "rgb": "(30, 153, 153)",
+    "hex": null,
+    "name": "Zöldeskék / Közép cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 156,
+    "rgb": "(153, 153, 118)",
+    "hex": 999976,
+    "name": "Tompa sárga / Khaki",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 157,
+    "rgb": "(124, 132, 153)",
+    "hex": "7C8499",
+    "name": "Szürkéskék / Világos palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 158,
+    "rgb": "(153, 46, 30)",
+    "hex": "992E1E",
+    "name": "Égetett narancs / Sötét vöröses narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 159,
+    "rgb": "(44, 30, 8)",
+    "hex": "2C1E08",
+    "name": "Nagyon sötétbarna/narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 160,
+    "rgb": "(20, 36, 7)",
+    "hex": 142407,
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 161,
+    "rgb": "(153, 62, 77)",
+    "hex": "993E4D",
+    "name": "Fakó rózsa / Sötét rózsaszínes vörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 162,
+    "rgb": "(30, 76, 153)",
+    "hex": "1E4C99",
+    "name": "Élénk kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 163,
+    "rgb": "(25, 129, 129)",
+    "hex": 198181,
+    "name": "Zöldeskék / Sötét cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 164,
+    "rgb": "(26, 41, 42)",
+    "hex": "1A292A",
+    "name": "Nagyon sötét cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 165,
+    "rgb": "(22, 97, 111)",
+    "hex": "16616F",
+    "name": "Sötét cián / Zöldeskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 166,
+    "rgb": "(27, 102, 135)",
+    "hex": "1B6687",
+    "name": "Élénk ciánkék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 167,
+    "rgb": "(108, 63, 153)",
+    "hex": "6C3F99",
+    "name": "Középlila / Királylila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 168,
+    "rgb": "(72, 26, 14)",
+    "hex": "481A0E",
+    "name": "Sötét barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 169,
+    "rgb": "(122, 115, 153)",
+    "hex": "7A7399",
+    "name": "Világos palakék / Mályvaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 170,
+    "rgb": "(116, 109, 153)",
+    "hex": "746D99",
+    "name": "Világos palakék / Mályvaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 171,
+    "rgb": "(83, 56, 126)",
+    "hex": "53387E",
+    "name": "Sötétlila / Indigó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 172,
+    "rgb": "(34, 36, 7)",
+    "hex": 222407,
+    "name": "Nagyon sötét olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 173,
+    "rgb": "(62, 25, 12)",
+    "hex": "3E190C",
+    "name": "Nagyon sötétbarna/narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 174,
+    "rgb": "(70, 33, 14)",
+    "hex": "46210E",
+    "name": "Sötétbarna/narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 175,
+    "rgb": "(153, 30, 30)",
+    "hex": "991E1E",
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 176,
+    "rgb": "(141, 76, 141)",
+    "hex": "8D4C8D",
+    "name": "Középlila / Orchidea",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 177,
+    "rgb": "(128, 91, 128)",
+    "hex": "805B80",
+    "name": "Tompa lila / Bogáncs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 178,
+    "rgb": "(123, 62, 126)",
+    "hex": "7B3E7E",
+    "name": "Középlila / Szilva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 179,
+    "rgb": "(60, 23, 55)",
+    "hex": "3C1737",
+    "name": "Nagyon sötétlila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 180,
+    "rgb": "(115, 53, 23)",
+    "hex": 733517,
+    "name": "Barna / Szienna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 181,
+    "rgb": "(120, 24, 24)",
+    "hex": 781818,
+    "name": "Sötétvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 182,
+    "rgb": "(131, 52, 26)",
+    "hex": "83341A",
+    "name": "Égetett narancs / Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 183,
+    "rgb": "(142, 47, 28)",
+    "hex": "8E2F1C",
+    "name": "Égetett szienna / Sötét narancsvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 184,
+    "rgb": "(126, 62, 83)",
+    "hex": "7E3E53",
+    "name": "Fakó rózsa / Sötét mályva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 185,
+    "rgb": "(124, 109, 124)",
+    "hex": "7C6D7C",
+    "name": "Szürkés lila / Taupe lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 186,
+    "rgb": "(2, 12, 2)",
+    "hex": "020C02",
+    "name": "Nagyon sötétzöld (majdnem fekete)",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 187,
+    "rgb": "(7, 36, 7)",
+    "hex": "072407",
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 188,
+    "rgb": "(22, 48, 18)",
+    "hex": 163012,
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 189,
+    "rgb": "(22, 48, 27)",
+    "hex": "16301B",
+    "name": "Nagyon sötét tompa zöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 190,
+    "rgb": "(100, 43, 79)",
+    "hex": "642B4F",
+    "name": "Sötét rózsaszínes lila / Eperfa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 191,
+    "rgb": "(54, 132, 82)",
+    "hex": 368452,
+    "name": "Középzöld / Tengerzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 192,
+    "rgb": "(153, 149, 144)",
+    "hex": 999590,
+    "name": "Világosszürke / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 193,
+    "rgb": "(129, 141, 150)",
+    "hex": "818D96",
+    "name": "Világos palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 194,
+    "rgb": "(153, 153, 30)",
+    "hex": "99991E",
+    "name": "Sötétsárga / Olíva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 195,
+    "rgb": "(127, 153, 76)",
+    "hex": "7F994C",
+    "name": "Olívazöld / Mohazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 196,
+    "rgb": "(131, 146, 146)",
+    "hex": 839292,
+    "name": "Szürkés cián / Világos palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 197,
+    "rgb": "(120, 130, 34)",
+    "hex": 788222,
+    "name": "Olívazöld / Sötétsárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 198,
+    "rgb": "(43, 60, 153)",
+    "hex": "2B3C99",
+    "name": "Királykék / Középkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 199,
+    "rgb": "(58, 58, 11)",
+    "hex": "3A3A0B",
+    "name": "Nagyon sötét olívasárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 200,
+    "rgb": "(138, 121, 78)",
+    "hex": "8A794E",
+    "name": "Tompa narancs / Sötét drapp",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 201,
+    "rgb": "(14, 31, 73)",
+    "hex": "0E1F49",
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 202,
+    "rgb": "(21, 55, 28)",
+    "hex": "15371C",
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 203,
+    "rgb": "(21, 39, 58)",
+    "hex": "15273A",
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 204,
+    "rgb": "(55, 87, 117)",
+    "hex": 375775,
+    "name": "Sötét acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 205,
+    "rgb": "(6, 8, 32)",
+    "hex": "060820",
+    "name": "Nagyon sötétkék (majdnem fekete)",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 206,
+    "rgb": "(7, 19, 38)",
+    "hex": "071326",
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 207,
+    "rgb": "(32, 57, 75)",
+    "hex": "20394B",
+    "name": "Nagyon sötét tompa kék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 208,
+    "rgb": "(44, 80, 137)",
+    "hex": "2C5089",
+    "name": "Középkék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 209,
+    "rgb": "(21, 66, 108)",
+    "hex": "15426C",
+    "name": "Sötétkék / Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 210,
+    "rgb": "(16, 50, 80)",
+    "hex": 103250,
+    "name": "Sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 211,
+    "rgb": "(36, 22, 99)",
+    "hex": 241663,
+    "name": "Sötétkék/Indigó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 212,
+    "rgb": "(105, 32, 21)",
+    "hex": 692015,
+    "name": "Sötétvörös / Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 213,
+    "rgb": "(140, 141, 148)",
+    "hex": "8C8D94",
+    "name": "Világos palaszürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 214,
+    "rgb": "(81, 96, 19)",
+    "hex": 516013,
+    "name": "Sötét olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 215,
+    "rgb": "(9, 15, 2)",
+    "hex": "090F02",
+    "name": "Nagyon sötétzöld (majdnem fekete)",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 216,
+    "rgb": "(140, 87, 58)",
+    "hex": "8C573A",
+    "name": "Barna / Réz",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 217,
+    "rgb": "(82, 136, 142)",
+    "hex": "52888E",
+    "name": "Tompa cián / Zöldeskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 218,
+    "rgb": "(153, 92, 82)",
+    "hex": "995C52",
+    "name": "Fakó rózsa / Rózsaszínes barna",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 219,
+    "rgb": "(153, 88, 30)",
+    "hex": "99581E",
+    "name": "Barnás narancs / Sötét narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 220,
+    "rgb": "(153, 58, 99)",
+    "hex": "993A63",
+    "name": "Sötét rózsaszín / Rózsa",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 221,
+    "rgb": "(153, 143, 78)",
+    "hex": "998F4E",
+    "name": "Tompa sárga / Sötét khaki",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 222,
+    "rgb": "(153, 49, 30)",
+    "hex": "99311E",
+    "name": "Égetett narancs / Sötét vöröses narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 223,
+    "rgb": "(13, 24, 66)",
+    "hex": "0D1842",
+    "name": "Nagyon sötétkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 224,
+    "rgb": "(82, 30, 30)",
+    "hex": "521E1E",
+    "name": "Sötétvörös / Barnásvörös",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 225,
+    "rgb": "(66, 66, 13)",
+    "hex": "42420D",
+    "name": "Nagyon sötét olívasárga",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 226,
+    "rgb": "(76, 153, 30)",
+    "hex": "4C991E",
+    "name": "Középzöld / Limezöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 227,
+    "rgb": "(8, 42, 29)",
+    "hex": "082A1D",
+    "name": "Nagyon sötétzöld/cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 228,
+    "rgb": "(150, 130, 29)",
+    "hex": "96821D",
+    "name": "Sötétsárga / Arany",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 229,
+    "rgb": "(25, 127, 25)",
+    "hex": "197F19",
+    "name": "Középzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 230,
+    "rgb": "(59, 20, 31)",
+    "hex": "3B141F",
+    "name": "Nagyon sötét rózsaszínes vörös / Bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 231,
+    "rgb": "(116, 82, 23)",
+    "hex": 745217,
+    "name": "Barna / Okker",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 232,
+    "rgb": "(137, 63, 141)",
+    "hex": "893F8D",
+    "name": "Középlila / Orchidea",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 233,
+    "rgb": "(126, 26, 108)",
+    "hex": "7E1A6C",
+    "name": "Sötét magenta / Élénk lila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 234,
+    "rgb": "(11, 55, 11)",
+    "hex": "0B370B",
+    "name": "Nagyon sötétzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 235,
+    "rgb": "(39, 69, 13)",
+    "hex": "27450D",
+    "name": "Sötét olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 236,
+    "rgb": "(7, 31, 36)",
+    "hex": "071F24",
+    "name": "Nagyon sötét cián",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 237,
+    "rgb": "(120, 69, 115)",
+    "hex": 784573,
+    "name": "Középlila / Mályva",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 238,
+    "rgb": "(138, 101, 58)",
+    "hex": "8A653A",
+    "name": "Barna / Drapp",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 239,
+    "rgb": "(115, 38, 23)",
+    "hex": 732617,
+    "name": "Barnásvörös / Égetett narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 240,
+    "rgb": "(49, 148, 144)",
+    "hex": 319490,
+    "name": "Zöldeskék / Közép akvamarin",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 241,
+    "rgb": "(86, 148, 29)",
+    "hex": "56941D",
+    "name": "Középzöld / Olívazöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 242,
+    "rgb": "(89, 22, 61)",
+    "hex": "59163D",
+    "name": "Sötét rózsaszínes lila / Bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 243,
+    "rgb": "(27, 138, 47)",
+    "hex": "1B8A2F",
+    "name": "Középzöld",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 244,
+    "rgb": "(56, 22, 11)",
+    "hex": "38160B",
+    "name": "Nagyon sötétbarna/narancs",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 245,
+    "rgb": "(4, 24, 4)",
+    "hex": "041804",
+    "name": "Nagyon sötétzöld (majdnem fekete)",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 246,
+    "rgb": "(53, 93, 142)",
+    "hex": "355D8E",
+    "name": "Acélkék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 247,
+    "rgb": "(46, 63, 91)",
+    "hex": "2E3F5B",
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 248,
+    "rgb": "(86, 26, 40)",
+    "hex": "561A28",
+    "name": "Sötétvörös / Bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 249,
+    "rgb": "(78, 14, 39)",
+    "hex": "4E0E27",
+    "name": "Nagyon sötét rózsaszínes vörös / Bordó",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 250,
+    "rgb": "(112, 108, 103)",
+    "hex": "706C67",
+    "name": "Szürke / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 251,
+    "rgb": "(59, 62, 66)",
+    "hex": "3B3E42",
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 252,
+    "rgb": "(46, 45, 51)",
+    "hex": "2E2D33",
+    "name": "Nagyon sötét szürkéslila",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 253,
+    "rgb": "(123, 126, 125)",
+    "hex": "7B7E7D",
+    "name": "Szürke",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 254,
+    "rgb": "(74, 68, 66)",
+    "hex": "4A4442",
+    "name": "Sötét szürkésbarna / Taupe",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  },
+  {
+    "gta_id": 255,
+    "rgb": "(40, 52, 78)",
+    "hex": "28344E",
+    "name": "Sötét szürkéskék",
+    "easy_name": "COLOR",
+    "can_paint": 1,
+    "price": 25000
+  }
+]

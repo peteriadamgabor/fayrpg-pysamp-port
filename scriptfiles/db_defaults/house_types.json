@@ -1,0 +1,462 @@
+[
+  {
+    "code": "HT_1",
+    "enter_x": 344.081604,
+    "enter_y": 305.081879,
+    "enter_z": 998.797668,
+    "angle": 266.62558,
+    "interior": 6,
+    "description": "1szoba",
+    "price": 200000
+  },
+  {
+    "code": "HT_2",
+    "enter_x": 244.5,
+    "enter_y": 305,
+    "enter_z": 999.148376,
+    "angle": 266.62558,
+    "interior": 1,
+    "description": "1szoba",
+    "price": 300000
+  },
+  {
+    "code": "HT_3",
+    "enter_x": 301.299988,
+    "enter_y": 306.299988,
+    "enter_z": 1003.539124,
+    "angle": 266.62558,
+    "interior": 4,
+    "description": "1szoba",
+    "price": 350000
+  },
+  {
+    "code": "HT_4",
+    "enter_x": 267.100006,
+    "enter_y": 305,
+    "enter_z": 999.148376,
+    "angle": 266.62558,
+    "interior": 2,
+    "description": "1szoba",
+    "price": 400000
+  },
+  {
+    "code": "HT_5",
+    "enter_x": 442.998413,
+    "enter_y": 509.289886,
+    "enter_z": 1001.419495,
+    "angle": 266.62558,
+    "interior": 12,
+    "description": "2szoba",
+    "price": 800000
+  },
+  {
+    "code": "HT_6",
+    "enter_x": 2259.486816,
+    "enter_y": -1136.109497,
+    "enter_z": 1050.632812,
+    "angle": 266.078583,
+    "interior": 10,
+    "description": "3szoba",
+    "price": 800000
+  },
+  {
+    "code": "HT_7",
+    "enter_x": 2468.778564,
+    "enter_y": -1698.301758,
+    "enter_z": 1013.507812,
+    "angle": 85.339775,
+    "interior": 2,
+    "description": "3szoba",
+    "price": 1000000
+  },
+  {
+    "code": "HT_8",
+    "enter_x": 223.121902,
+    "enter_y": 1287.185425,
+    "enter_z": 1082.140625,
+    "angle": 340.428345,
+    "interior": 1,
+    "description": "4szoba",
+    "price": 1500000
+  },
+  {
+    "code": "HT_9",
+    "enter_x": -42.525101,
+    "enter_y": 1405.9021,
+    "enter_z": 1084.429688,
+    "angle": 0.537412,
+    "interior": 8,
+    "description": "3szoba",
+    "price": 1700000
+  },
+  {
+    "code": "HT_10",
+    "enter_x": 221.734695,
+    "enter_y": 1140.50293,
+    "enter_z": 1082.609375,
+    "angle": 0.537412,
+    "interior": 4,
+    "description": "4szoba",
+    "price": 1800000
+  },
+  {
+    "code": "HT_11",
+    "enter_x": -2170.113037,
+    "enter_y": 640.794678,
+    "enter_z": 1057.59375,
+    "angle": 0.537412,
+    "interior": 1,
+    "description": "2szoba luxus",
+    "price": 2500000
+  },
+  {
+    "code": "HT_12",
+    "enter_x": -260.5896,
+    "enter_y": 1456.774048,
+    "enter_z": 1084.367188,
+    "angle": 93.968483,
+    "interior": 4,
+    "description": "4szoba",
+    "price": 3000000
+  },
+  {
+    "code": "HT_13",
+    "enter_x": 24.231501,
+    "enter_y": 1340.372925,
+    "enter_z": 1084.375,
+    "angle": 1.277175,
+    "interior": 10,
+    "description": "5szoba",
+    "price": 4000000
+  },
+  {
+    "code": "HT_14",
+    "enter_x": 328.044403,
+    "enter_y": 1478.239136,
+    "enter_z": 1085.1875,
+    "angle": 1.277175,
+    "interior": 15,
+    "description": "4szoba luxus",
+    "price": 5000000
+  },
+  {
+    "code": "HT_15",
+    "enter_x": 261.078796,
+    "enter_y": 1284.401611,
+    "enter_z": 1080.257812,
+    "angle": 1.277175,
+    "interior": 4,
+    "description": "5szoba",
+    "price": 5300000
+  },
+  {
+    "code": "HT_16",
+    "enter_x": 318.600189,
+    "enter_y": 1114.480225,
+    "enter_z": 1083.882812,
+    "angle": 1.277175,
+    "interior": 5,
+    "description": "4szoba",
+    "price": 6000000
+  },
+  {
+    "code": "HT_17",
+    "enter_x": 260.729889,
+    "enter_y": 1237.338989,
+    "enter_z": 1084.257812,
+    "angle": 1.277175,
+    "interior": 9,
+    "description": "5szoba luxus",
+    "price": 6300000
+  },
+  {
+    "code": "HT_18",
+    "enter_x": 2270.310547,
+    "enter_y": -1210.395752,
+    "enter_z": 1047.749146,
+    "angle": 89.750366,
+    "interior": 10,
+    "description": "4szoba luxus",
+    "price": 7000000
+  },
+  {
+    "code": "HT_19",
+    "enter_x": 22.8267,
+    "enter_y": 1403.429565,
+    "enter_z": 1084.429688,
+    "angle": 356.745819,
+    "interior": 5,
+    "description": "6szoba luxus",
+    "price": 9500000
+  },
+  {
+    "code": "HT_20",
+    "enter_x": 376.299988,
+    "enter_y": 1417.199951,
+    "enter_z": 1081.328125,
+    "angle": 90.176147,
+    "interior": 15,
+    "description": "5szoba luxus",
+    "price": 10000000
+  },
+  {
+    "code": "HT_21",
+    "enter_x": 2807.686279,
+    "enter_y": -1174.390137,
+    "enter_z": 1025.494141,
+    "angle": 355.291473,
+    "interior": 8,
+    "description": "3szoba",
+    "price": 10500000
+  },
+  {
+    "code": "HT_22",
+    "enter_x": 83.102097,
+    "enter_y": 1322.385742,
+    "enter_z": 1083.859375,
+    "angle": 355.291473,
+    "interior": 9,
+    "description": "7szoba",
+    "price": 11000000
+  },
+  {
+    "code": "HT_23",
+    "enter_x": 2365.329102,
+    "enter_y": -1135.490356,
+    "enter_z": 1050.875,
+    "angle": 355.291473,
+    "interior": 8,
+    "description": "5szoba luxus",
+    "price": 11500000
+  },
+  {
+    "code": "HT_24",
+    "enter_x": 295.399994,
+    "enter_y": 1473.199951,
+    "enter_z": 1080.257812,
+    "angle": 355.291473,
+    "interior": 15,
+    "description": "6szoba luxus",
+    "price": 13500000
+  },
+  {
+    "code": "HT_25",
+    "enter_x": 2195.296631,
+    "enter_y": -1204.106689,
+    "enter_z": 1049.023438,
+    "angle": 79.635109,
+    "interior": 6,
+    "description": "7szoba luxus",
+    "price": 16000000
+  },
+  {
+    "code": "HT_26",
+    "enter_x": 491.139099,
+    "enter_y": 1398.604736,
+    "enter_z": 1080.257812,
+    "angle": 0.417309,
+    "interior": 2,
+    "description": "6szoba luxus",
+    "price": 20000000
+  },
+  {
+    "code": "HT_27",
+    "enter_x": 2324.358154,
+    "enter_y": -1149.213013,
+    "enter_z": 1050.710083,
+    "angle": 0.417309,
+    "interior": 12,
+    "description": "5szoba luxus",
+    "price": 23000000
+  },
+  {
+    "code": "HT_28",
+    "enter_x": 2495.898193,
+    "enter_y": -1692.090332,
+    "enter_z": 1014.742188,
+    "angle": 171.845001,
+    "interior": 3,
+    "description": "3szoba",
+    "price": 9100000
+  },
+  {
+    "code": "HT_29",
+    "enter_x": 235.444,
+    "enter_y": 1186.787476,
+    "enter_z": 1080.257812,
+    "angle": 359.319,
+    "interior": 3,
+    "description": "7szoba luxus",
+    "price": 25000000
+  },
+  {
+    "code": "HT_30",
+    "enter_x": 140.208496,
+    "enter_y": 1366.265503,
+    "enter_z": 1083.865601,
+    "angle": 359.319,
+    "interior": 5,
+    "description": "7szoba luxus",
+    "price": 33000000
+  },
+  {
+    "code": "HT_31",
+    "enter_x": 2317.843994,
+    "enter_y": -1026.657593,
+    "enter_z": 1050.210938,
+    "angle": 359.319,
+    "interior": 9,
+    "description": "5szoba luxus",
+    "price": 38000000
+  },
+  {
+    "code": "HT_32",
+    "enter_x": 226.836594,
+    "enter_y": 1114.273315,
+    "enter_z": 1080.992188,
+    "angle": 267.880493,
+    "interior": 5,
+    "description": "9szoba luxus",
+    "price": 40000000
+  },
+  {
+    "code": "HT_33",
+    "enter_x": 225.726898,
+    "enter_y": 1021.555725,
+    "enter_z": 1084.011719,
+    "angle": 353.790894,
+    "interior": 7,
+    "description": "8szoba luxus",
+    "price": 45500000
+  },
+  {
+    "code": "HT_34",
+    "enter_x": 234.199997,
+    "enter_y": 1064.900024,
+    "enter_z": 1084.210571,
+    "angle": 353.790894,
+    "interior": 6,
+    "description": "8szoba luxus",
+    "price": 50000000
+  },
+  {
+    "code": "HT_35",
+    "enter_x": 2524.816895,
+    "enter_y": -1285.640015,
+    "enter_z": 1054.640625,
+    "angle": 263.919556,
+    "interior": 2,
+    "description": "11szoba luxus",
+    "price": 130000000
+  },
+  {
+    "code": "HT_36",
+    "enter_x": 1298.977661,
+    "enter_y": -796.902527,
+    "enter_z": 1084.007812,
+    "angle": 354.529968,
+    "interior": 5,
+    "description": "20szoba Luxus",
+    "price": 200000000
+  },
+  {
+    "code": "HT_37",
+    "enter_x": 422.567505,
+    "enter_y": 2536.238525,
+    "enter_z": 10,
+    "angle": 87.333717,
+    "interior": 10,
+    "description": "1szoba",
+    "price": 500000
+  },
+  {
+    "code": "HT_38",
+    "enter_x": 2.0608,
+    "enter_y": -3.0261,
+    "enter_z": 999.428406,
+    "angle": 87.333717,
+    "interior": 2,
+    "description": "1szoba",
+    "price": 250000
+  },
+  {
+    "code": "HT_39",
+    "enter_x": -1333.571533,
+    "enter_y": -82.997398,
+    "enter_z": 1516.492676,
+    "angle": 268.498291,
+    "interior": 1,
+    "description": "Templom",
+    "price": 10000000
+  },
+  {
+    "code": "HT_40",
+    "enter_x": 2518.487793,
+    "enter_y": -1650.354492,
+    "enter_z": 6877.635742,
+    "angle": 178.683289,
+    "interior": 1,
+    "description": "4szoba",
+    "price": 1200000
+  },
+  {
+    "code": "HT_41",
+    "enter_x": 1559.377075,
+    "enter_y": -1234.643311,
+    "enter_z": 271.602997,
+    "angle": 356.691101,
+    "interior": 0,
+    "description": "Zoli lakas",
+    "price": 400000000
+  },
+  {
+    "code": "HT_42",
+    "enter_x": 3307.451904,
+    "enter_y": -437.126404,
+    "enter_z": 6659.157715,
+    "angle": 0,
+    "interior": 0,
+    "description": "Hotelbelso1",
+    "price": 10000000
+  },
+  {
+    "code": "HT_43",
+    "enter_x": 3315.111328,
+    "enter_y": -455.938385,
+    "enter_z": 6658.507812,
+    "angle": 0,
+    "interior": 0,
+    "description": "Hotelbelso2",
+    "price": 10000000
+  },
+  {
+    "code": "HT_44",
+    "enter_x": 230.639099,
+    "enter_y": 1267.548096,
+    "enter_z": 1005.3078,
+    "angle": 356.691101,
+    "interior": 1,
+    "description": "3szoba extra",
+    "price": 500000
+  },
+  {
+    "code": "HT_45",
+    "enter_x": 297.317688,
+    "enter_y": 17.887899,
+    "enter_z": 1216.079712,
+    "angle": 262.433105,
+    "interior": 18,
+    "description": "3szoba extra",
+    "price": 65000000
+  },
+  {
+    "code": "HT_46",
+    "enter_x": 2563.779785,
+    "enter_y": -1461.578735,
+    "enter_z": 1057.979736,
+    "angle": 71.377579,
+    "interior": 2,
+    "description": "Egyeni luxus",
+    "price": 30000000
+  }
+]

@@ -1,0 +1,8 @@
+[paths]
+LANGUAGES = "configs/languages"
+ANTICHEAT = "configs/anti_cheat"
+SERVER = "configs/server"
+MAPS = "maps"
+HOSPITAL_SPAWNS = "scriptfiles/spawns/hospital"
+SWEEPTER_ROUTS = "scriptfiles/routs/jobs/sweeper"
+HARBOUR_POINTS = "scriptfiles/points/boatdelivery"

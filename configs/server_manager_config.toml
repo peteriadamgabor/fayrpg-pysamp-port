@@ -1,0 +1,3 @@
+executable_windows = "omp-server.exe"
+executable_linux = "./omp-server"
+log_file = "log.txt"

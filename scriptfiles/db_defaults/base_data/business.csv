@@ -1,0 +1,291 @@
+﻿in_game_id,business_type_id,interior_id,owner_id,price,name,x,y,z,a,locked,company_chain,is_illegal,load_x,load_y,load_z,load_a,business_number
+null,null,null,null,500000000,OTP Bank,1456.911133,-1010.292358,26.84375,0,0,null,0,null,null,null,null,1
+null,null,null,null,35000000,Oneill Divatáru,2244.284668,-1665.533081,15.476562,0,0,null,0,null,null,null,null,2
+null,null,null,null,55000000,NEW YORKER,1456.751221,-1137.970459,23.967501,0,0,null,0,null,null,null,null,3
+null,null,null,null,48000000,J.PRESS,461.184204,-1500.875366,31.059099,0,0,null,0,null,null,null,null,4
+null,null,null,null,55000000,Azsia Center,-1882.592407,866.331116,35.171902,0,0,null,0,null,null,null,null,5
+null,null,null,null,30000000,Mari Turi,-2374.091553,910.160828,45.435101,0,0,null,0,null,null,null,null,6
+null,null,null,null,40000000,Retro,-2490.58252,-29.068501,25.617201,0,0,null,0,null,null,null,null,7
+null,null,null,null,50000000,Versace,-1694.708984,951.772278,24.8906,0,0,null,0,null,null,null,null,8
+null,null,null,null,60000000,Burger KIng,793.896423,-1624.786865,13.382812,0,0,null,0,null,null,null,null,9
+null,null,null,null,60000000,KFC,928.00177,-1352.772217,13.3438,0,0,null,0,null,null,null,null,10
+null,null,null,null,60000000,Burger KIng,1199.141235,-918.15332,43.123901,0,0,null,0,null,null,null,null,11
+null,null,null,null,20000000,Pék Pont,1038.222046,-1340.251465,13.7392,0,0,null,0,null,null,null,null,12
+null,null,null,null,60000000,Pizza Forte,2105.345215,-1806.538696,13.5547,0,0,null,0,null,null,null,null,13
+null,null,null,null,60000000,KFC,2419.901611,-1508.993164,24,0,0,null,0,null,null,null,null,14
+null,null,null,null,60000000,KFC,2397.878662,-1899.004395,13.5469,0,0,null,0,null,null,null,null,15
+null,null,null,null,150000000,ALHAMBRA,1836.469116,-1682.419312,13.3467,0,0,null,0,null,null,null,null,16
+null,null,null,null,80000000,Burger King,-2336.835938,-166.870895,35.554699,0,0,null,0,null,null,null,null,17
+null,null,null,null,85000000,KFC,-2671.549072,258.905212,4.6328,0,0,null,0,null,null,null,null,18
+null,null,null,null,85000000,Burger King,-2356.228027,1008.142517,50.898399,0,0,null,0,null,null,null,null,19
+null,null,null,null,95000000,Pizza Hut,-1721.609375,1359.750122,7.1853,0,0,null,0,null,null,null,null,20
+null,null,null,null,90000000,Pizza la Dello,-1808.326782,945.516785,24.8906,0,0,null,0,null,null,null,null,21
+null,null,null,null,85000000,Burger King,-1912.116089,828.050476,35.205799,0,0,null,0,null,null,null,null,22
+null,null,null,null,95000000,KFC,-1816.572876,618.084412,35.171902,0,0,null,0,null,null,null,null,23
+null,null,null,null,180000000,Las Palmas,1498.36499,-1581.883179,13.5498,0,0,null,0,null,null,null,null,24
+null,null,null,null,200000000,Nascar ,2781.468262,-1813.348755,11.8438,0,0,null,0,null,null,null,null,25
+null,null,null,null,200000000,Motocross,2695.633301,-1704.723999,11.8438,0,0,null,0,null,null,null,null,26
+null,null,null,null,70000000,Heaven'Pub,2309.83667,-1643.696899,14.827,0,0,null,0,null,null,null,null,27
+null,null,null,null,300000000,Jizzy Club,-2624.522705,1411.995728,7.0938,0,0,null,0,null,null,null,null,28
+null,null,null,null,90000000,Media Markt,1765.509521,-1362.449829,15.757812,0,0,null,0,null,null,null,null,29
+null,null,null,null,75000000,BEST BYTE,822.577026,-1757.292236,13.6484,0,0,null,0,null,null,null,null,30
+null,null,null,null,75000000,Saturn,811.437378,-1061.464478,24.9503,0,0,null,0,null,null,null,null,31
+null,null,null,null,75000000,LOMEX,2353.299072,-1485.434326,24,0,0,null,0,null,null,null,null,32
+null,null,null,null,20000000,FEEDER,-772.984253,-2125.355713,25.807812,0,0,null,0,null,null,null,null,33
+null,null,null,null,32000000,Quasimodo Fitness,2229.681396,-1721.514038,13.5637,0,0,null,0,null,null,null,null,34
+null,null,null,null,32000000,Kobra Fitness,479.205139,-1538.57251,19.386169,0,0,null,0,null,null,null,null,35
+null,null,null,null,1000000000,CIB Bank,-1946.272583,555.617493,35.171902,0,0,null,0,null,null,null,null,36
+null,null,null,null,300000000,OMV,1929.150513,-1776.180298,13.5469,0,0,null,0,null,null,null,null,37
+null,null,null,null,150000000,ALDI,1833.309448,-1842.567505,13.5781,0,0,null,0,null,null,null,null,38
+null,null,null,null,150000000,INTERSPAR,1352.420044,-1758.938843,13.5078,0,0,null,0,null,null,null,null,39
+null,null,null,null,150000000,LIDL,1315.45459,-898.49469,39.578098,0,0,null,0,null,null,null,null,40
+null,null,null,null,250000000,MOL,999.947998,-919.925781,42.328098,0,0,null,0,null,null,null,null,41
+null,null,null,null,200000000,AGIP,-78.889999,-1169.643188,2.1496,0,0,null,0,null,null,null,null,42
+null,null,null,null,200000000,OMV GmbH,-1562.36145,-2733.295166,48.7435,0,0,null,0,null,null,null,null,43
+null,null,null,null,200000000,Aral GmbH,-2231.676025,-2558.062256,31.9219,0,0,null,0,null,null,null,null,44
+null,null,null,null,150000000,SHELL,-1675.787476,431.917297,7.1797,0,0,null,0,null,null,null,null,45
+null,null,null,null,150000000,OMV,-2419.676514,969.924072,45.296902,0,0,null,0,null,null,null,null,46
+null,null,null,null,200000000,Tesco,-2442.547119,753.850525,35.171902,0,0,null,0,null,null,null,null,47
+null,null,null,null,120000000,Penny Market,-2492.10791,-90.685699,25.617201,0,0,null,0,null,null,null,null,48
+null,null,null,null,10000000,24/7 Elelmiszer Bolt,-1968.78479,619.782715,35.171902,0,0,null,0,null,null,null,null,49
+null,null,null,null,480000000,O-Plus,-2032.484253,161.423492,29.046101,0,0,null,0,null,null,null,null,50
+null,null,null,null,100000000,AVIA,-1465.842896,1872.963989,32.632801,0,0,null,0,null,null,null,null,51
+null,null,null,null,150000000,OMV,-1320.553467,2698.538086,50.2663,0,0,null,0,null,null,null,null,52
+null,null,null,null,65000000,Coop,-288.9422,2690.458984,62.8125,0,0,null,0,null,null,null,null,53
+null,null,null,null,100000000,Carburante,662.645813,1716.865601,7.1875,0,0,null,0,null,null,null,null,54
+null,null,null,null,60000000,Carburante,-206.292694,1212.059448,19.8906,0,0,null,0,null,null,null,null,55
+null,null,null,null,150000000,SHELL,2117.467285,897.139771,11.1797,0,0,null,0,null,null,null,null,56
+null,null,null,null,150000000,MOL,2637.383789,1129.250244,11.1797,0,0,null,0,null,null,null,null,57
+null,null,null,null,100000000,SPAR,2546.491699,1971.82019,10.8203,0,0,null,0,null,null,null,null,58
+null,null,null,null,10000000,Billa,2452.480713,2064.201904,10.8203,0,0,null,0,null,null,null,null,59
+null,null,null,null,150000000,SHELL,1599.685059,2221.304688,11.0625,0,0,null,0,null,null,null,null,60
+null,null,null,null,35000000,ABC,1429.74646,2654.277344,11.3926,0,0,null,0,null,null,null,null,61
+null,null,null,null,150000000,AGIP,2188.30957,2469.524902,11.2422,0,0,null,0,null,null,null,null,62
+null,null,null,null,90000000,MATCH,2097.626221,2224.271973,11.0234,0,0,null,0,null,null,null,null,63
+null,null,null,null,200000000,Auchan,2194.398926,1990.973511,12.2969,0,0,null,0,null,null,null,null,64
+null,null,null,null,180000000,AGIP,1374.588623,468.737366,20.195932,0,0,null,0,null,null,null,null,65
+null,null,null,null,200000000,ESSO,661.273071,-573.461487,16.335899,0,0,null,0,null,null,null,null,66
+null,null,null,null,85000000,Tante Emma Laden,-2520.328369,2281.241455,4.9844,0,0,null,0,null,null,null,null,67
+null,null,null,null,150000000,MOL,2150.48877,2733.950928,11.176349,0,0,null,0,null,null,null,null,68
+null,null,null,null,70000000,Huszár Csárda,-1257.918457,-758.924011,65.802704,0,0,null,0,null,null,null,null,69
+null,null,null,null,75000000,GoldenGate,-2524.405273,1216.055054,37.636841,0,0,null,0,null,null,null,null,70
+null,null,null,null,13000000,Roseberger,-1941.995728,2379.363525,49.703125,0,0,null,0,null,null,null,null,71
+null,null,null,null,10000000,Vice étterem,2489.962158,2065.33374,10.820312,0,0,null,0,null,null,null,null,72
+null,null,null,null,120000000,Burger King,2472.760742,2034.156738,11.0625,0,0,null,0,null,null,null,null,73
+null,null,null,null,120000000,KFC,2393.245361,2041.660034,10.820312,0,0,null,0,null,null,null,null,74
+null,null,null,null,100000000,Burger King,2366.94751,2071.116943,10.820312,0,0,null,0,null,null,null,null,75
+null,null,null,null,85000000,Pizza Hut,2638.679199,1849.912964,11.023437,0,0,null,0,null,null,null,null,76
+null,null,null,null,0,McDonald,2638.491455,1671.771118,11.023437,0,0,null,0,null,null,null,null,77
+null,null,null,null,100000000,ZIP,2571.982422,1904.847168,11.023437,0,0,null,0,null,null,null,null,78
+null,null,null,null,75000000,Holló Kocsma,2441.088135,2065.375244,10.820312,0,0,null,0,null,null,null,null,79
+null,null,null,null,60000000,Dugi szexshop,2420.34668,2065.086914,10.820312,0,0,null,0,null,null,null,null,80
+null,null,null,null,60000000,Erotic Island,2408.510254,2016.05835,10.820312,0,0,null,0,null,null,null,null,81
+null,null,null,null,150000000,Binco,2102.006104,2257.398193,11.023437,0,0,null,0,null,null,null,null,82
+null,null,null,null,90000000,KFC,2102.00415,2228.802979,11.023437,0,0,null,0,null,null,null,null,83
+null,null,null,null,90000000,Best Markt,2090.390625,2224.596436,11.023437,0,0,null,0,null,null,null,null,84
+null,null,null,null,85000000,Pizza Hut,2083.240234,2224.603271,11.023437,0,0,null,0,null,null,null,null,85
+null,null,null,null,80000000,Intim Center,2085.231445,2073.987061,11.054687,0,0,null,0,null,null,null,null,86
+null,null,null,null,110000000,Burger King,1872.370117,2071.887451,11.0625,0,0,null,0,null,null,null,null,87
+null,null,null,null,80000000,FregattArizona,1694.640991,2208.809326,11.069177,0,0,null,0,null,null,null,null,88
+null,null,null,null,90000000,Colorado,2369.064697,1984.105103,10.820312,0,0,null,0,null,null,null,null,89
+null,null,null,null,70000000,Pizza Hut,2756.739502,2477.243896,11.0625,0,0,null,0,null,null,null,null,90
+null,null,null,null,85000000,Dress Box,2779.764648,2453.740723,11.0625,0,0,null,0,null,null,null,null,91
+null,null,null,null,65000000,Paravan,2802.870361,2430.630371,11.0625,0,0,null,0,null,null,null,null,92
+null,null,null,null,50000000,Praktiker,2826.031006,2407.477783,11.0625,0,0,null,0,null,null,null,null,93
+null,null,null,null,90000000,KFC,2838.148926,2407.47583,11.068956,0,0,null,0,null,null,null,null,94
+null,null,null,null,80000000,ABC,2884.651855,2454.004395,11.068956,0,0,null,0,null,null,null,null,95
+null,null,null,null,110000000,Real,2247.765869,2396.266602,10.820312,0,0,null,0,null,null,null,null,96
+null,null,null,null,130000000,Pizza Hut,2330.672363,2533.499756,10.820312,0,0,null,0,null,null,null,null,97
+null,null,null,null,75000000,City Csemege,1937.718994,2307.432861,10.820312,0,0,null,0,null,null,null,null,98
+null,null,null,null,80000000,Adios Ruhabolt,1656.918701,1733.327393,10.828111,0,0,null,0,null,null,null,null,99
+null,null,null,null,80000000,Csavaros Fánk,-2767.768555,788.811829,52.78125,0,0,null,0,null,null,null,null,100
+null,null,null,null,69000000,69.0 Pub,-288.412628,-2151.803955,28.546875,0,0,null,0,null,null,null,null,101
+null,null,null,null,100000000,Cafe Del Rio,816.095032,-1386.194946,13.599785,0,0,null,0,null,null,null,null,102
+null,null,null,null,30000000,Lottozó,1782.347168,-1342.322388,15.748388,0,0,null,0,null,null,null,null,103
+null,null,null,null,45000000,Pizza Boy,1367.433228,248.380447,19.566933,0,0,null,0,null,null,null,null,104
+null,null,null,null,55000000,Pinyó Klub,1294.78418,235.527695,19.554688,0,0,null,0,null,null,null,null,105
+null,null,null,null,25000000,Lottozó,1288.802368,271.197052,19.554688,0,0,null,0,null,null,null,null,106
+null,null,null,null,45000000,Bécsiszelet  vendéglõ,293.230591,-195.414398,1.778619,0,0,null,0,null,null,null,null,107
+null,null,null,null,45000000,Pizza Hut,212.248627,-202.305176,1.578125,0,0,null,0,null,null,null,null,108
+null,null,null,null,45000000,KFC,-2155.248291,-2460.235352,30.851562,0,0,null,0,null,null,null,null,109
+null,null,null,null,60000000, Dögös Hús Vendéglõ,691.36145,-640.390259,16.32206,0,0,null,0,null,null,null,null,110
+null,null,null,null,60000000,Wong Pizzéria,2331.911377,74.921211,26.620975,0,0,null,0,null,null,null,null,111
+null,null,null,null,100000000,SPAR,2318.767578,-90.444344,26.484375,0,0,null,0,null,null,null,null,112
+null,null,null,null,70000000,Kék Laguna,693.678955,1967.58374,5.539062,0,0,null,0,null,null,null,null,113
+null,null,null,null,85000000,KFC,172.930359,1177.098755,14.757812,0,0,null,0,null,null,null,null,114
+null,null,null,null,55000000,Vadvirág,-53.826267,1188.854126,19.359375,0,0,null,0,null,null,null,null,115
+null,null,null,null,50000000,KirályKarika,-144.025787,1225.108276,19.89922,0,0,null,0,null,null,null,null,116
+null,null,null,null,55000000,Kaktusz Bár,-179.750183,1087.607666,19.742188,0,0,null,0,null,null,null,null,117
+null,null,null,null,65000000,UFO Kocsma,-89.490166,1378.20459,10.469839,0,0,null,0,null,null,null,null,118
+null,null,null,null,30000000,Farakás,-384.712494,2206.143555,42.423492,0,0,null,0,null,null,null,null,119
+null,null,null,null,100000000,Auchan,-553.739136,2593.826904,53.93478,0,0,null,0,null,null,null,null,120
+null,null,null,null,65000000,BilLaden,-1530.977539,2591.753906,55.835938,0,0,null,0,null,null,null,null,121
+null,null,null,null,80000000,KFC,-1213.754639,1830.436768,41.929688,0,0,null,0,null,null,null,null,122
+null,null,null,null,55000000,Tehén Grill,-857.969604,1535.488525,22.587044,0,0,null,0,null,null,null,null,123
+null,null,null,null,80000000,Karftwerk,-2492.238037,2363.279053,10.276987,0,0,null,0,null,null,null,null,124
+null,null,null,null,100000000,Avanti,-734.529541,2756.063721,47.226562,0,0,null,0,null,null,null,null,125
+null,null,null,null,250000000,MDOSZ,191.975739,1351.721436,10.585937,0,0,null,0,null,null,null,null,126
+null,null,null,null,0,_____,1046.057617,1007.961975,11,0,0,null,0,null,null,null,null,127
+null,null,null,null,1500000000,FÕGÁZ ZRT.,-1025.540161,-599.729736,32.007812,0,0,null,0,null,null,null,null,128
+null,null,null,null,500000000,B2B,-1872.840942,-131.532242,11.898437,0,0,null,0,null,null,null,null,129
+null,null,null,null,550000000,-,-1660.333862,3.388238,3.549483,0,0,null,0,null,null,null,null,130
+null,null,null,null,300000000,LSKK,252.06105,-1403.486084,13.654722,0,0,null,0,null,null,null,null,131
+null,null,null,null,300000000,ÉMÁSZ ZRT,1441.654663,-292.691406,6.891384,0,0,null,0,null,null,null,null,132
+null,null,null,null,280000000,ELMÛ,2626.331299,-1991.410156,13.546875,0,0,null,0,null,null,null,null,133
+null,null,null,null,0,Hajókereskedés,-2189.605957,2415.071777,5.15625,0,0,null,0,null,null,null,null,134
+null,null,null,null,300000000,ROAD-EUROTRANS KFT.,2435.387207,-2104.059814,13.546875,0,0,null,0,null,null,null,null,135
+null,null,null,null,200000000,MOL-LPG,37.202999,-187.033203,2.0177,0,0,null,0,null,null,null,null,136
+null,null,null,null,1500000000,Eon,-1801.65625,2058.404053,8.97789,0,0,null,0,null,null,null,null,137
+null,null,null,null,200000000,Kamilla Patika,-2720.527344,127.684517,7.039062,0,0,null,0,null,null,null,null,138
+null,null,null,null,100000000,OMV,-2275.512207,2412.627441,4.933693,0,0,null,0,null,null,null,null,139
+null,null,null,null,30000000,H&M,2045.30603,-1913.053467,13.546875,0,0,null,0,null,null,null,null,140
+null,null,null,null,30000000,Kilos-Turi,-2439.275391,-196.015488,35.320312,0,0,null,0,null,null,null,null,141
+null,null,null,null,1000000000,Erste BANK,2446.773438,2375.904053,12.163512,0,0,null,0,null,null,null,null,142
+null,null,null,null,100000000,La Verde,1377.978149,2327.90918,10.820312,0,0,null,0,null,null,null,null,143
+null,null,null,null,150000000,Kaliber Kft.,1367.810059,-1280.109497,13.546875,0,0,null,0,null,null,null,null,144
+null,null,null,null,130000000,Armis Kft.,1273.190308,238.664154,19.884033,0,0,null,0,null,null,null,null,145
+null,null,null,null,500000000,Fegyverbolt,-2626.231445,209.11055,4.606715,0,0,null,0,null,null,null,null,146
+null,null,null,null,500000000,Fegyverbolt,2177.475586,924.358704,11.099519,0,0,null,0,null,null,null,null,147
+null,null,null,null,130000000,Vadász Kft.,242.175705,-178.659286,1.578125,0,0,null,0,null,null,null,null,148
+null,null,null,null,300000000,Fegyverbolt,-315.495728,830.028137,14.242187,0,0,null,0,null,null,null,null,149
+null,null,null,null,130000000,Célkereszt,2333.87207,61.649929,26.70579,0,0,null,0,null,null,null,null,150
+null,null,null,null,170000000,Fegyverbolt,-1509.171753,2610.032715,55.835938,0,0,null,0,null,null,null,null,151
+null,null,null,null,25000000,Csonti Car - A legjobb ár!,-2215.580811,-2523.194092,30.503664,0,0,null,0,null,null,null,null,152
+null,null,null,null,25000000,Carcentrum,2420.862793,125.84127,26.476562,0,0,null,0,null,null,null,null,153
+null,null,null,null,45000000,BotCAR Használtautó Kereskedés,2131.688477,-1151.317017,24.05938,0,0,null,0,null,null,null,null,154
+null,null,null,null,180000000,Fegyverbolt,776.731628,1871.107178,4.904715,0,0,null,0,null,null,null,null,155
+null,null,null,null,150000000,GunBox,2400.732178,-1981.703247,13.546875,0,0,null,0,null,null,null,null,156
+null,null,null,null,0,Posta,1421.898926,-1180.178467,25.992188,0,0,null,0,null,null,null,null,157
+null,null,null,null,0,Posta,-2383.963379,493.635376,29.84724,0,0,null,0,null,null,null,null,158
+null,null,null,null,0,Posta,-1536.107056,2564.154541,55.835938,0,0,null,0,null,null,null,null,159
+null,null,null,null,30000000,Telenor,1789.256104,-1399.180176,15.757812,0,0,null,0,null,null,null,null,160
+null,null,null,null,30000000,Vodafone,1787.320923,-1342.572754,15.733263,0,0,null,0,null,null,null,null,161
+null,null,null,null,30000000,T-Mobile,1747.541382,-1342.370972,15.757812,0,0,null,0,null,null,null,null,162
+null,null,null,null,30000000,Telenor,2861.363037,2430.648926,11.068956,0,0,null,0,null,null,null,null,163
+null,null,null,null,30000000,T-Mobile,2899.996094,2469.320557,11.068956,0,0,null,0,null,null,null,null,164
+null,null,null,null,45000000,Brasco Cars,2512.832031,-1546.102051,24.111343,0,0,null,0,null,null,null,null,165
+null,null,null,null,45000000,Zara Cars LS,604.01355,-1522.365845,15.319218,0,0,null,0,null,null,null,null,166
+null,null,null,null,45000000,Hajó Bazár,2877.474121,-1942.702515,8.885297,0,0,null,0,null,null,null,null,167
+null,null,null,null,45000000,Bayliner Yacht,2875.516602,-1928.370972,8.885297,0,0,null,0,null,null,null,null,168
+null,null,null,null,20000000,Rozsdás Rákolló,2878.202393,-1911.651367,9.848434,0,0,null,0,null,null,null,null,169
+null,null,null,null,125000000,Blueberry Mezõgazdaság,-144.693222,-50.04607,3.117187,0,0,null,0,null,null,null,null,170
+null,null,null,null,55000000,Drake Cars,252.633987,-1466.588257,23.976992,0,0,null,0,null,null,null,null,171
+null,null,null,null,250000000,Mobil Petrol,1600.10437,-2176.83374,13.576564,0,0,null,0,null,null,null,null,172
+null,null,null,null,500000000,ERSTE Bank,597.307556,-1249.268921,18.296339,0,0,null,0,null,null,null,null,173
+null,null,null,null,75000000,OBI,2351.800293,-1411.965332,23.99234,0,0,null,0,null,null,null,null,174
+null,null,null,null,250000000,Nyugati Magyaroszági Régió Mezõ,-1109.001343,-1657.740845,76.773544,0,0,null,0,null,null,null,null,175
+null,null,null,null,125000000,Montgomery Mezõgazdaság,1566.83667,23.14189,24.164062,0,0,null,0,null,null,null,null,176
+null,null,null,null,50000000,Mezõgazdasági Bolt,-66.606194,-86.171104,3.117187,0,0,null,0,null,null,null,null,177
+null,null,null,null,100000000,Heaven Street Customs,2618.82251,-2190.9021,13.546875,0,0,null,0,null,null,null,null,178
+null,null,null,null,50000000,BERGHOFF,-2319.85083,-1665.738037,483.16861,0,0,null,0,null,null,null,null,179
+null,null,null,null,250000000,Flughaffen St.Sebastian,-2301.942383,-1613.256958,483.885925,0,0,null,0,null,null,null,null,180
+null,null,null,null,60000000,Robinson Étterem,171.846329,-200.866928,1.570312,0,0,null,0,null,null,null,null,181
+null,null,null,null,200000000,MOL MAHART,2882.464111,-2185.310547,3.694099,0,0,null,0,null,null,null,null,182
+null,null,null,null,180000000,MAERSK PETROL,-2334.009766,2301.048096,4.984849,0,0,null,0,null,null,null,null,183
+null,null,null,null,250000000,JET A1,1590.760498,-2644.530029,13.546875,0,0,null,0,null,null,null,null,184
+null,null,null,null,250000000,SHELL,2276.679199,-2326.024658,13.546875,0,0,null,0,null,null,null,null,185
+null,null,null,null,20000000,Sex Shop,1087.666992,-922.58606,43.390625,0,0,null,0,null,null,null,null,186
+null,null,null,null,45000000,AAA AUTÓ,783.95813,-1382.086792,13.693305,0,0,null,0,null,null,null,null,187
+null,null,null,null,120000000,Autósiskola,-2029.77417,-120.624245,35.170414,0,0,null,0,null,null,null,null,188
+null,null,null,null,999999999,BRAVO BT,1565.610474,-1230.40625,275.142883,0,0,null,0,null,null,null,null,189
+null,null,null,null,65000000,FKF Zrt,781.656982,-1131.22998,23.828125,0,0,null,0,null,null,null,null,190
+null,null,null,null,35000000,SPRINGFIELD,671.107971,-519.218262,16.335938,0,0,null,0,null,null,null,null,191
+null,null,null,null,45000000,Kerkyra,2131.83252,-30.388447,6.269633,0,0,null,0,null,null,null,null,192
+null,null,null,null,55000000,Taverna ,2230.737305,-124.514351,26.483929,0,0,null,0,null,null,null,null,193
+null,null,null,null,4000000,AutoPiac,144.886444,1988.213867,19.502735,0,0,null,0,null,null,null,null,194
+null,null,null,null,20000000,See-Welt,1791.689209,-1163.084229,23.828125,0,0,null,0,null,null,null,null,195
+null,null,null,null,80000000,BILLA,648.677185,-519.984863,16.553686,0,0,null,0,null,null,null,null,196
+null,null,null,null,45000000,Casa Piadina,998.859009,-1439.444702,13.546875,0,0,null,0,null,null,null,null,197
+null,null,null,null,0,Diamonds,2334.517334,55.443581,26.484013,0,0,null,0,null,null,null,null,198
+null,null,null,null,100000000,OMV,117.96077,1985.29248,19.243099,0,0,null,0,null,null,null,null,199
+null,null,null,null,150000000,Casino di Venezia,1287.381226,-1157.947998,23.828125,0,0,null,0,null,null,null,null,200
+null,null,null,null,35000000,Trattoria Pomo D'oro,1030.852295,-1455.311768,13.554634,0,0,null,0,null,null,null,null,201
+null,null,null,null,35000000,La Camica Uno,1007.637512,-1459.076782,13.554634,0,0,null,0,null,null,null,null,202
+null,null,null,null,100000000,CBA,1021.205688,-1448.046509,13.554634,0,0,null,0,null,null,null,null,203
+null,null,null,null,35000000,Qualitativo Pizza,962.229492,-1470.644165,13.501266,0,0,null,0,null,null,null,null,204
+null,null,null,null,60000000,Detox City Pub,965.104675,-1415.05127,13.299072,0,0,null,0,null,null,null,null,205
+null,null,null,null,500000000,BB Takarékszövetkezet,273.283813,-195.642441,1.570451,0,0,null,0,null,null,null,null,206
+null,null,null,null,400000000,Citi Bank,2303.718506,-16.096306,26.484375,0,0,null,0,null,null,null,null,207
+null,null,null,null,35000000,Kínai üzlet,2333.390625,18.802689,26.476562,0,0,null,0,null,null,null,null,208
+null,null,null,null,60000000,KIKA,2303.972168,56.419933,26.484375,0,0,null,0,null,null,null,null,209
+null,null,null,null,70000000,Euronics,2277.732422,51.234188,26.484375,0,0,null,0,null,null,null,null,210
+null,null,null,null,100000000,LIDL,2242.393555,50.249447,26.484375,0,0,null,0,null,null,null,null,211
+null,null,null,null,0,Allianz,1569.903564,-1225.060913,196.420319,0,0,null,0,null,null,null,null,212
+null,null,null,null,0,Signal,1565.423828,-1225.057007,196.420319,0,0,null,0,null,null,null,null,213
+null,null,null,null,0,Generali,1560.107544,-1224.874023,196.420319,0,0,null,0,null,null,null,null,214
+null,null,null,null,250000000,MOL,2912.562988,-847.260803,11.096874,0,0,null,0,null,null,null,null,215
+null,null,null,null,250000000,AGIP,2860.99707,-848.157654,11.121873,0,0,null,0,null,null,null,null,216
+null,null,null,null,55000000,WOMEN SECRET,1789.222656,-1384.410278,15.757812,0,0,null,0,null,null,null,null,217
+null,null,null,null,100000000,COOP,172.288193,-152.556931,1.574513,0,0,null,0,null,null,null,null,218
+null,null,null,null,100000000,Penny Market,1252.816772,352.13382,19.554688,0,0,null,0,null,null,null,null,219
+null,null,null,null,60000000,IKEA,1416.736206,261.158051,19.545063,0,0,null,0,null,null,null,null,220
+null,null,null,null,400000000,FHB Bank,1310.831421,329.906616,19.914062,0,0,null,0,null,null,null,null,221
+null,null,null,null,48000000,SAXOLONDON,349.030945,-1346.895752,14.507812,0,0,null,0,null,null,null,null,222
+null,null,null,null,35000000,Szermerin Hobbi,2562.72998,-1467.436646,24.007149,0,0,null,0,null,null,null,null,223
+null,null,null,null,35000000,Mountex ,694.843384,-500.030823,16.335938,0,0,null,0,null,null,null,null,224
+null,null,null,null,200000000,OIL GmbH,-2771.080078,-1516.365845,139.313446,0,0,null,0,null,null,null,null,225
+null,null,null,null,500000000,MKB Bank,840.861206,-1627.151001,13.546875,0,0,null,0,null,null,null,null,226
+null,null,null,null,80000000,Fight Club,2278.195312,-2044.964355,13.546875,0,0,null,0,null,null,null,null,227
+null,null,null,null,65000000,Aranypajzs Patika,1140.465088,-1586.769531,13.558423,0,0,null,0,null,null,null,null,228
+null,null,null,null,65000000,Keleti Patika,2865.554199,-1458.001953,10.95656,0,0,null,0,null,null,null,null,229
+null,null,null,null,65000000,Nyugati Patika,335.965759,-1335.343628,14.507812,0,0,null,0,null,null,null,null,230
+null,null,null,null,65000000,Remény Gyógyszertár,712.067749,-498.854187,16.335938,0,0,null,0,null,null,null,null,231
+null,null,null,null,180000000,Pig Pen,2421.539307,-1219.470581,25.546942,0,0,null,0,null,null,null,null,232
+null,null,null,null,80000000,Segafredo,1567.971436,-1897.91272,13.560862,0,0,null,0,null,null,null,null,233
+null,null,null,null,70000000,Dodge-Plymouth,2522.328369,-1547.032837,24.116116,0,0,null,0,null,null,null,null,234
+null,null,null,null,90000000,GMC-Chrysler,1757.183716,-1129.304321,24.085936,0,0,null,0,null,null,null,null,235
+null,null,null,null,50000000,Porsche Hungaria,1167.77002,-1512.729126,15.801435,0,0,null,0,null,null,null,null,236
+null,null,null,null,70000000,Volkswagen Motor AT,-2104.599609,-2391.234863,31.335932,0,0,null,0,null,null,null,null,237
+null,null,null,null,120000000,Dürer Kert,776.397339,-1036.292847,24.273809,0,0,null,0,null,null,null,null,238
+null,null,null,null,280000000,Vízmûvek,2572.171631,-1458.047607,35.020245,0,0,null,0,null,null,null,null,239
+null,null,null,null,130000000,Aquaworld Resort,1208.819214,-1751.892822,13.593461,0,0,null,0,null,null,null,null,240
+null,null,null,null,120000000,Dream Club,1310.151245,-1367.008301,13.515456,0,0,null,0,null,null,null,null,241
+null,null,null,null,40000000,Haffen Restaurant,-2791.584961,-2509.503174,3,0,0,null,0,null,null,null,null,242
+null,null,null,null,15000000,Richter Gedeon,-838.766174,2762.446289,46,0,0,null,0,null,null,null,null,243
+null,null,null,null,80000000,Gokart Centrum,2306.518311,609.225342,10.820312,0,0,null,0,null,null,null,null,244
+null,null,null,null,280000000,Mercedes,-2101.172852,-2479.727539,30.625,0,0,null,0,null,null,null,null,245
+null,null,null,null,70000000,BMW Össtereich GmbH,-2123.881348,-2480.604248,30.625,0,0,null,0,null,null,null,null,246
+null,null,null,null,100000000,British Cars,1565.653442,-1419.872192,13.481246,0,0,null,0,null,null,null,null,247
+null,null,null,null,70000000,Offroad Motors,1195.030396,343.838348,20.188747,0,0,null,0,null,null,null,null,248
+null,null,null,null,70000000,Real Motorcentrum,2426.620117,119.318207,26.468872,0,0,null,0,null,null,null,null,249
+null,null,null,null,90000000,Buick,1232.274292,-1428.324707,13.532961,0,0,null,0,null,null,null,null,250
+null,null,null,null,70000000,Delta Truck,99.286125,-175.607956,1.596634,0,0,null,0,null,null,null,null,251
+null,null,null,null,100000000,Ferrari,1376.279663,-1774.853638,18.496355,0,0,null,0,null,null,null,null,252
+null,null,null,null,100000000,Ford,1505.237549,-1419.840698,13.481246,0,0,null,0,1501.984,-1393.4077,14.0289,15.7,253
+null,null,null,null,90000000,Jeep-Pontiac,1832.26062,-1297.501343,13.601759,0,0,null,0,null,null,null,null,254
+null,null,null,null,60000000,Oldsmobile,663.992981,-552.265259,16.337353,0,0,null,0,null,null,null,null,255
+null,null,null,null,70000000,Japan Import,-2113.370117,-2405.14209,31.333387,0,0,null,0,null,null,null,null,256
+null,null,null,null,90000000,Honda Infinity,192.418808,-1445.53418,13.319218,0,0,null,0,null,null,null,null,257
+null,null,null,null,200000000,BRICKERS KFT,-86.128716,-1531.216675,2.68232,0,0,null,0,null,null,null,null,258
+null,null,null,null,350000000,NTM,-1378.309204,-2964.574951,1.507812,0,0,null,0,null,null,null,null,259
+null,null,null,null,65000000,BELFAST,-1373.584717,-1463.633301,102.829689,0,0,null,0,null,null,null,null,260
+null,null,null,null,180000000,AGIP,-1458.146362,-1409.746582,101.777344,0,0,null,0,null,null,null,null,261
+null,null,null,null,250000000,STRABAG,319.909088,874.933228,20.399021,0,0,null,0,null,null,null,null,262
+null,null,null,null,100000000,Hirös Yacht,13.018304,-1110.402954,0.852687,0,0,null,0,null,null,null,null,263
+null,null,null,null,180000000,IMPERIAL,2807.205078,-1177.06958,25.402887,0,0,null,0,null,null,null,null,264
+null,null,null,null,35000000,Old Fregatt,-815.418945,-1894.212158,11.098682,0,0,null,0,null,null,null,null,265
+null,null,null,null,0,Országos Egészségbiztosítási Pénztár,1555.037598,-1224.876465,196.420319,0,0,null,0,null,null,null,null,266
+null,null,null,null,200000000,Thália Színház,1291.932129,-1131.359009,23.828125,0,0,null,0,null,null,null,null,267
+null,null,null,null,70000000,Ford Truck ,24.412533,-2664.108643,40.554668,0,0,null,0,null,null,null,null,268
+null,null,null,null,350000000,TESCO,1768.526123,-1397.691528,15.757812,0,0,null,0,null,null,null,null,269
+null,null,null,null,150000000,Helly Hansen,1777.072266,-1342.329224,15.762291,0,0,null,0,null,null,null,null,270
+null,null,null,null,150000000,Costa Coffe,1789.26001,-1404.952759,15.757812,0,0,null,0,null,null,null,null,271
+null,null,null,null,45000000,Samsonite,1788.984375,-1393.272217,15.757812,0,0,null,0,null,null,null,null,272
+null,null,null,null,150000000,NordSee,1789.350098,-1365.321411,15.757812,0,0,null,0,null,null,null,null,273
+null,null,null,null,150000000,OREX,1758.313599,-1342.584717,15.757231,0,0,null,0,null,null,null,null,274
+null,null,null,null,150000000,Istambul Gyros,1732.63501,-1378.459473,13.578125,0,0,null,0,null,null,null,null,275
+null,null,null,null,150000000,Tourinform,978.135498,-1557.727051,21.507812,0,0,null,0,null,null,null,null,276
+null,null,null,null,150000000,Neckermann,963.456299,-1558.081421,21.476704,0,0,null,0,null,null,null,null,277
+null,null,null,null,100000000,Chevrolet Cadillac Motor Hungar,1262.431152,-1250.719116,19.373644,0,0,null,0,null,null,null,null,278
+null,null,null,null,90000000,Lincoln-Mercury,1206.956421,-1478.882812,13.546875,0,0,null,0,null,null,null,null,279
+null,null,null,null,25000000,Média Presso,1414.152344,-1459.465942,20.429661,0,0,null,0,null,null,null,null,280
+null,null,null,null,65000000,Waldviertlerhof,-2390.515381,-2220.271484,33.74218,0,0,null,0,null,null,null,null,281
+null,null,null,null,100000000,UFC,2701.076416,-1279.757812,58.945312,0,0,null,0,null,null,null,null,282
+null,null,null,null,25000000,TICKETPRO,1234.736816,-1158.149658,23.541336,0,0,null,0,null,null,null,null,283
+null,null,null,null,5000,OTTHONMESTER KFT ,1565.54248,-1236.49353,277.879028,0,0,null,0,null,null,null,null,284
+null,null,null,null,75000000,TRANCE CLUB,942.955627,-1742.567261,13.554628,0,0,null,0,null,null,null,null,285
+null,null,null,null,90000000,Salvatore Industries,283.292786,-1604.366699,96.497826,0,0,null,0,null,null,null,null,286
+null,null,null,null,1500000000,T-Systems Magyarország Zrt.,293.418335,-1617.97876,92,0,0,null,0,null,null,null,null,287
+null,null,null,null,1500000000,Saudi Aramco,-928.134766,-4752.53418,13.322774,0,0,null,0,null,null,null,null,288
+,,,,,,,,,,,,,,,,,
+

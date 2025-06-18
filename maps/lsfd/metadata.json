@@ -1,0 +1,22 @@
+{
+  "name": "LSFD HQ",
+  "description": "",
+  "author": "",
+  "created": "2024-09-15",
+  "position": [
+    0.0,
+    0.0,
+    0.0,
+    0,
+    0
+  ],
+  "models": [
+    {
+      "base_id": 19552,
+      "new_id": -1001,
+      "dff": "lsfd/LSFD.dff",
+      "txd": "lsfd/LSFD.txd"
+    }
+  ],
+  "is_active": true
+}

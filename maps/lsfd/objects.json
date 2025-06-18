@@ -1,0 +1,18 @@
+[
+  {
+    "name": "LSFD",
+    "model_id": -1001,
+    "x": 1489.979980,
+    "y": -1597.650024,
+    "z": 10.916700,
+    "rotation_x": 0.0,
+    "rotation_y": 0.0,
+    "rotation_z": 0.0,
+    "world_id": 0,
+    "interior_id": 0,
+    "stream_distance": 350.0,
+    "draw_distance": 0.0,
+    "static": true,
+    "materials": []
+  }
+]

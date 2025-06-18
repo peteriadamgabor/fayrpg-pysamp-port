@@ -1,0 +1,21 @@
+[anti_cheat]
+[anti_cheat.ping]
+max = 300
+max_warn = 3
+
+[anti_cheat.ping.notify]
+admin = false
+player = true
+
+[ban_lenght_types]
+[ban_lenght_types.day]
+names = "day nap"
+multiplayer = 1440
+
+[ban_lenght_types.hour]
+names = "hour óra ora"
+multiplayer = 60
+
+[ban_lenght_types.minute]
+names = "minute perc"
+multiplayer = 1

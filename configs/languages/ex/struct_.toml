@@ -1,0 +1,14 @@
+###############################################################################################
+# This is an example file for language files.                                                 #
+# set1 is represented an ISO 639-1:2002 for determinate the package lang in python.           #
+# translations contanis every text key and value.                                             #
+#                                                                                             #
+# [translations]                                                                              #
+# yes = "Yes"                                                                                 #
+# no = "No"                                                                                   #
+###############################################################################################
+
+set1 = ""
+
+[translations]
+# ...

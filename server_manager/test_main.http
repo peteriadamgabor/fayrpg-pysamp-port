@@ -1,0 +1,21 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8001/
+Accept: application/json
+X-API-TOKEN: c31e0e88d0393530321bfd5cdb40c1fd14fe995848f06d22f10c13251477234c998ba7e3b4ecd9070fbcee316d90bcc921de630f73a593245604bfe48f55bb4d
+
+
+###
+
+GET http://127.0.0.1:8001/server/staus
+Accept: application/json
+X-API-TOKEN: c31e0e88d0393530321bfd5cdb40c1fd14fe995848f06d22f10c13251477234c998ba7e3b4ecd9070fbcee316d90bcc921de630f73a593245604bfe48f55bb4d
+
+###
+
+###
+
+GET http://127.0.0.1:8001/public/health
+Accept: application/json
+
+###

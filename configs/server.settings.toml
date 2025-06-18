@@ -1,0 +1,9 @@
+[server]
+language = "hu"
+name = "Server name"
+mode = "Server mode name"
+is_developer = true
+version_number = 5.0
+version_name = "Version name"
+modul_list = ["fractions", "discord", "labels", "entrances", "report", "anticheat", "model", "server", "maps", "zone", "utils",  "player", "business", "house", "vehicle", "admin", "inventory", "jobs",  "language", "dialogtree"]
+discord_hooks = { main = "https://discord.com/api/webhooks/...../.....", report = "https://discord.com/api/webhooks/...../....." }

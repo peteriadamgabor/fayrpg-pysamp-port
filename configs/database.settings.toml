@@ -1,0 +1,18 @@
+[db]
+DIALECT = ""
+ADAPTER = ""
+USER = ""
+HOST = ""
+PORT = 0
+DB_NAME = ""
+ECHO = false
+CONNECTION_STRING = "@format {this.db.DIALECT}+{this.db.ADAPTER}://{this.db.USER}:{this.secrets.DB_PASSWORD}@{this.db.HOST}:{this.db.PORT}/{this.db.DB_NAME}"
+
+[db_surreal]
+USER = ""
+CONNECTION_STRING = "http://surrealdb:8000"
+
+[db_alembic]
+HOST = ""
+CONNECTION_STRING = "@format {this.db.DIALECT}+{this.db.ADAPTER}://{this.db.USER}:{this.secrets.DB_PASSWORD}@{this.db_alembic.HOST}:{this.db.PORT}/{this.db.DB_NAME}"
+

@@ -1,0 +1,17 @@
+set1 = "hu"
+
+[translations]
+LANG_HTML_ATTR = "hu"
+LANG_EMAIL_SUBJECT = "FayRPG kétfaktoros hitelesítési kód"
+LANG_LOGO_ALT_TEXT = "FayRPG"
+LANG_EMAIL_HEADLINE = "Kétfaktoros hitelesítési kód a szerever belépéshez"
+LANG_GREETING = "Helló"
+LANG_CODE_INTRO_MESSAGE = "A #CHARACTER_NAME# karkteredhez való bejelentkezésehez többtényezős hitelesítés szügséges! Kérjük használd az alábbi kódot a bejelentkezésehaz!"
+LANG_YOUR_CODE_IS = "Hitelesítési kód:"
+LANG_AUTH_CODE_ARIA_LABEL = "Hitelesítési kód"
+LANG_CODE_VALIDITY_MESSAGE_PART1 = "Ez a kód"
+LANG_CODE_VALIDITY_MESSAGE_PART2 = "percig érvényes"
+LANG_NOT_REQUESTED_MESSAGE = "Ha nem Te próbáltál bejelentkezni, kérjük, hagyd figyelmen kívül ezt az e-mailt, vagy azonnal lépjen kapcsolatba ügyfélszolgálatunkkal, ha jogosulatlan tevékenységet gyanítasz."
+LANG_RIGHTS_RESERVED = "Minden jog fenntartva."
+LANG_SUPPORT_LINK_TEXT = "Támogatás"
+LANG_PRIVACY_POLICY_LINK_TEXT = "Adatvédelmi irányelvek"

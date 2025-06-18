@@ -1,0 +1,15 @@
+# Need to define language in python. Format ISO 639-1:2002 https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes Set 1 row
+set1 = "en"
+
+[translations]
+yes = "Yes"
+no = "No"
+accept = "Accept"
+dismiss = "Dismiss"
+notaplayer = "Invalid player!"
+notinhospital = "Not in the hospital!"
+realeshospital = "{} successfully released from hospital!"
+adminrealeshospital = "You successfully released {} from hospital"
+acmdrealeshospital = "has released {} from the hospital!"
+chnagelang = "You have successfully switched to the {} language!"
+

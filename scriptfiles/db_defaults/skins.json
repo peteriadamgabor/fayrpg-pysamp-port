@@ -1,0 +1,3112 @@
+[
+  {
+    "gta_id": 0,
+    "description": "Hosszú farmert és rövid fehér trikót viselö, 180centi magas, színes börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 1,
+    "description": "Hosszú barna farmert és piros-fehér kockás inget viselö, 182centi magas, szakállas, öreg fehér börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 2,
+    "description": "Hosszú farmert és hosszú fehér dzsekit viselő, 175centi magas, fehér börü tinédzser.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 3,
+    "description": "Nincs leirás",
+    "price": 34000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 4,
+    "description": "Nincs leirás",
+    "price": 8500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 5,
+    "description": "Nincs leirás",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 6,
+    "description": "Nincs leirás",
+    "price": 16500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 7,
+    "description": "Hosszú szürke nadrágot és hosszú farmerkabátot viselö, 180centi magas, színes börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 8,
+    "description": "Nincs leirás",
+    "price": 5000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 9,
+    "description": "Hosszú barna nadrágot és kabátot viselö, 170centi magas, színes börü nö.",
+    "price": 15000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 10,
+    "description": "Barna szoknyát és piros kockás felsőt viselö, 165centi magas, színes börü, öreg nö.",
+    "price": 7000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 11,
+    "description": "Fekete-Fehér felszolgáló ruhát viselö, 170centi magas, színes börü nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 12,
+    "description": "Fekete ünnepélyes ruhát viselö, 170centi magas, fekete hajú, színes börü nö.",
+    "price": 100000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 13,
+    "description": "Hosszú nadrágot, és rövid lila pólót viselö, 170centi magas, színes börü nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 14,
+    "description": "Hosszú barna nadrágot és fehér mintás inget viselö, 175centi magas, színes börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 15,
+    "description": "Hosszú farmert és kockás inget viselö, 175centi magas, színes börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 16,
+    "description": "Hosszú szürke nadrágot és narancssárga felsöt viselö, 180centi magas, barna börü építész férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 17,
+    "description": "Hosszú barna nadrágot és öltönyt viselö, nyakkendös, 180centi magas színes börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 18,
+    "description": "Rövidnadrágot viselö, félmeztelen, 180centi magas, színes börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 19,
+    "description": "Hosszú piros nadrágot és sapkát viselö, 180centi magas, félmeztelen, színes börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 20,
+    "description": "Hosszú nadrágot és sárga dzsekit viselö, 180centi magas, színes börü férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 21,
+    "description": "Rövidnadrágot és kék-csíkos inget viselö, 180centi magas, színes börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 22,
+    "description": "Hosszú narancssárga-fekete alsó-felsö szettet viselö, 180centi magas, színes börü férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 23,
+    "description": "Halászgatyát és szürke mintás pólót viselö, 175centi magas, fehér börü tinédzser.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 24,
+    "description": "Hosszú farmert és kék kabátot viselö, 180centi magas, színes börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 25,
+    "description": "Fekete farmert és hosszú fehér-kék kabátot viselö, 180centi magas, színes börü férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 26,
+    "description": "Barna rövidnadrágot, kék pólót és egy hátizsákot viselö, 180centi magas, fehér börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 27,
+    "description": "Hosszú farmert, és rövid szürke pólót viselö, 180centi magas, fehér építész.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 28,
+    "description": "Hosszú szürke nadrágot és fekete trikót viselö, 180centi magas, színes börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 29,
+    "description": "Hosszú farmert és fehér kapucnis pulóvert viselö, 178centi magas, fehér börü férfi",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 30,
+    "description": "Hosszú szürke nadrágot és trikót viselö, 178centi magas, tetovált, színes börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 31,
+    "description": "Hosszú farmert, fehér pólót és barna csizmát viselö, 170centi magas, fehér börü nö.",
+    "price": 25000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 32,
+    "description": "Hosszú barna nadrágot és szürke inget viselö, 173centi magas, félszemü, fehér börü férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 33,
+    "description": "Hosszú fekete nadrágot, csizmát és kabátot viselö, 180centi magas, fehér börü férfi.",
+    "price": 80000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 34,
+    "description": "Hosszú farmert, barna csizmát és kék kockás inget viselö, 175centi magas, fehér börü férfi.",
+    "price": 100000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 35,
+    "description": "Fehér rövidnadrágot, és rózsaszín inget viselö, 180centi magas, kalapos, fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 36,
+    "description": "Kék rövidnadrágot, és fehér inget viselö, 180centi magas, fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 37,
+    "description": "Barna rövidnadrágot és fehér-zöld inget viselö, 178centi magas, fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 38,
+    "description": "Fekete rövidnadrágot és fehér-zöld pólót viselö, 168centi magas, színes börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 39,
+    "description": "Zöld szoknyát és barna-fehér kabátot viselö, 168centi magas, fehér börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 40,
+    "description": "Piros ünnepélyes ruhát viselö, 175centi magas, színes börü nö.",
+    "price": 60000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 41,
+    "description": "Hosszú világoskék nadrágot és pólót viselö, 175centi magas, kalapos, fehér nö.",
+    "price": 25000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 42,
+    "description": "Nincs leirás",
+    "price": 5000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 43,
+    "description": "Hosszú fekete nadrágot, és lila inget viselö, 175centi magas, szemüveges, öreg férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 44,
+    "description": "Hosszú szürke nadrágot, és kék-kockás inget viselö, 175centi magas, tetovált, öreg férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 45,
+    "description": "Rövid zöld rövidnadrágot viselö, 180centi magas, félmeztelen, fehér férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 46,
+    "description": "Hosszú farmert, és hosszú fehér inget viselö, 180centi magas, szines börü férfi.",
+    "price": 70000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 47,
+    "description": "Hosszú barna nadrágot, és barna kockás inget viselö, 180centi magas, szemüveges, színes börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 48,
+    "description": "Hosszú szürke nadrágot és fehér-kék csíkos pólót viselö, 178centi magas, színes börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 49,
+    "description": "Hosszú fekete-piros nadrágot és pólót viselö, 173centi magas, fehér színű öreg férfi",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 50,
+    "description": "Hosszú szürke szerelőruhát viselö, 180centi magas, fehér börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 51,
+    "description": "Fekete rövidnadrágot és sárga pólót viselö, 180centi magas, bukósisakos, színes börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 52,
+    "description": "Fekete rövidnadrágot és piros-fehér pólót viselö, 180centi magas, bukósisakos,fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 53,
+    "description": "Kék rövidnadrágot és barna inget viselö, 170centi magas, fehér börü öreg nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 54,
+    "description": "Fakólila szoknyát és barna kabátot viselö, 170centi magas, színes börü öreg nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 55,
+    "description": "Barna-Fekete csíkos ruhát viselö, 175centi magas, szemüveges, fehér börü nö.",
+    "price": 85000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 56,
+    "description": "Szürke szoknyát és zöld trikót viselö, 175centi magas, fehér börü nö.",
+    "price": 30000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 57,
+    "description": "Barna öltönyt viselö, 175centi magas, szemüveges, fehér börü férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 58,
+    "description": "Hosszú farmert és piros kockás inget viselö, 170centi magas, fehér börü férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 59,
+    "description": "Hosszú fekete nadrágot és barna-szürke inget viselö, 180centi magas, fehér börü férfi.",
+    "price": 70000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 60,
+    "description": "Hosszú farmert és barna pulóvert viselö, 180centi magas, fehér börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 61,
+    "description": "Kék egyenruhát viselö, 180centi magas, fehér börü férfi.",
+    "price": 120000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 62,
+    "description": "Kék-Fehér csíkos pizsamát viselö, 175centi magas, fehér börü öreg férfi.",
+    "price": 70000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 63,
+    "description": "Rövid fekete szoknyát és rózsaszín melltartót viselö, 175centi magas, színes börü nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 64,
+    "description": "Rövid fakólila szoknyát és fekete felsőt viselö, 175centi magas, szines börü nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 65,
+    "description": "Nincs leirás",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 66,
+    "description": "Hosszú farmert és kék-fehér kabátot viselö, 180centi magas, színes börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 67,
+    "description": "Hosszú farmert és fehér pulóvert viselö, 180centi magas, színes börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 68,
+    "description": "Fekete ruhát viselö, 180centi magas, öreg férfi pap.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 69,
+    "description": "Hosszú kék alsó-felső farmert viselö, 175centi magas, színes börü nö.",
+    "price": 25000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 70,
+    "description": "Hosszú szürke nadrágot, és fehér köpenyt viselö, 180centi magas, fehér börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 71,
+    "description": "Hosszú kék nadrágot és kék inget viselö, 180centi magas, egyenruhás, szines börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 72,
+    "description": "Hosszú farmert és kék inget viselö, 180centi magas, fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 73,
+    "description": "Hosszú terepmintás nadrágot és barna pólót viselö, 178centi magas, fehér börü férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 75,
+    "description": "Lila miniszoknyát viselö, 175centi magas, fehér szinü nö.",
+    "price": 7500,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 76,
+    "description": "Kék ünnepélyes ruhát viselö, 175centi magas, színes börü nö.",
+    "price": 40000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 77,
+    "description": "Barna szakadt szoknyát és kék felsöt viselö, 170centi magas, fehér börü öreg nö.",
+    "price": 3000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 78,
+    "description": "Hosszú szakadt farmert és piros kockás inget viselö, 175centi magas, fehér börü öreg férfi.",
+    "price": 5000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 79,
+    "description": "Hosszú kék nadrágot és zöld tömött kabátot viselö, 180centi magas, szines börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 80,
+    "description": "Piros rövidnadrágot és piros boxkesztyüt viselö, 180centi magas, szines börü férfi. ",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 81,
+    "description": "Kék rövidnadrágot, boxkesztyüt viselo, 180cm magas, fehér börü férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 82,
+    "description": "Fekete partyruhában lévö, fehér övet, és napszemüveget viselö, 180cm magas, barna börü férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 83,
+    "description": "Fehér partyruhában lévö, fehér övet, viselö, 180cm magas, barna börü férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 84,
+    "description": "Kék partyruhában lévö, fehér övet, és napszemüveget viselö, 180cm magas, barna börü férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 85,
+    "description": "Barna kabátot viselö, 170cm magas, fehér börü szöke nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 86,
+    "description": "Nincs leirás",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 87,
+    "description": "Alulöltözött, fekete alsonemüt viselö, 170cm magas, barna haju, feher börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 88,
+    "description": "Barna rövidnadrágot, és piros fölsöt viselö, öreg, ösz haju fehér börü nö.",
+    "price": 15000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 89,
+    "description": "Kék ruhát viselö, ösz haju, fehér börü öreg nö.",
+    "price": 15000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 90,
+    "description": "Nincs leírás",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 91,
+    "description": "Fehér ruhát viselö, 170cm magas, szöke haju fehér börü fiatal nö.",
+    "price": 50000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 92,
+    "description": "Fekete bikinit és napszemüveget viselö, 165 cm magas, fehér börü nö.",
+    "price": 15000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 93,
+    "description": "Fekete felsöt, és farmert viselö, 170cm magas, szöke haju, feher börü nö.",
+    "price": 45000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 94,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 95,
+    "description": "Szürke inget, és farmert viselö, 170cm magas, feher börü, öreg férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 96,
+    "description": "Fekete rövidnadrágot, és szürke csikos trikot viselö, 190cm magas, fekete haju, fehér börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 97,
+    "description": "Piros fürdögatyát viselö, 185cm magas, szöke haju, fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 98,
+    "description": "Fehér inget, sötét szinü mellényt, és farmert viselö, 180cm magas, szines börü férfi.",
+    "price": 60000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 99,
+    "description": "Sport ruhát, napszemüveget, és bukosisakot viselö, 190 cm magas, görkorcsolyás fehér börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 100,
+    "description": "Fekete pólót, fekete bördzsekit és napszemüveget viselö, szakállas, tetovált karu, 185cm magas, fehér börü férfi.",
+    "price": 90000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 101,
+    "description": "Hosszú szürke nadrágot, és barna dzsekit viselö, 180centi magas, hosszu haju,fehér börü férfi",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 102,
+    "description": "Lila rövidnadrágot és fehér pólót viselö, 180centi magas, szines börü férfi.",
+    "price": 22000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 103,
+    "description": "Hosszú farmert, lila fejkendőt és kék kabátot viselö, 180centi magas, szines börü férfi.",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 104,
+    "description": "Lila pólót és hosszú nadrágot viselö, sapkás, 180centi magas, szines börü férfi.",
+    "price": 38000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 105,
+    "description": "Hosszú zöld nadrágot és pólót viselö, 180centi magas, szines börü férfi.",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 106,
+    "description": "Hosszú nadrágot és zöld kockás inget viselö, raszta hajú, 180centi magas, szines börü férfi.",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 107,
+    "description": "Hosszú nadrágot és zöld kosaras pólót viselö, aranynyakláncos,  180centi magas, szines börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 108,
+    "description": "Hosszú nadrágot és sárga fejkendöt viselö, félmeztelen, tetovált, 180centi magas, szines börü férfi",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 109,
+    "description": "Hosszú nadrágot, sárga fejkendöt és fehér inget viselö, 180centi magas, szines börü férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 110,
+    "description": "Hosszú nadrágot, sárga fejkendőt és fehér inget viselö, aranynyakláncos, 180centi magas, szines börü férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 111,
+    "description": "Hosszú fekete nadrágot, és fekete kabátot viselö, 180centi magas, fehér börü orosz férfi.",
+    "price": 48000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 112,
+    "description": "Hosszú szürke nadrágot, és barna kabátot viselö, 178centi magas, borostás, kopasz, fehér börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 113,
+    "description": "Hosszú szürke öltönyt viselö, 180centi magas, olasz, fehér börü férfi.",
+    "price": 60000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 114,
+    "description": "Hosszú szürke nadrágot, és szürke csíkos pólót viselö, 180centi magas, kék fejkendős, tetovált, szines börü férfi.",
+    "price": 38000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 115,
+    "description": "Hosszú szürke nadrágot, és fekete dzsekit viselö, 180centi magas, aranynyakláncos, kék fejkendős, szines börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 116,
+    "description": "Barna rövidnadrágot, és fehér pólót viselö, 180centi magas, aranynyakláncos, kék fejkendős, szines börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 117,
+    "description": "Hosszú fekete nadrágot, és kabátot viselö, 178centi magas, fehér börü férfi.",
+    "price": 48000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 118,
+    "description": "Hosszú fekete nadrágot, és kabátot viselö, 178centi magas, fehér börü férfi.",
+    "price": 48000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 119,
+    "description": "Nincs leirás",
+    "price": 18000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 120,
+    "description": "Hosszú szürke nadrágot, és kabátot viselö, 177centi magas, kecskeszakállas, fehér börü férfi.",
+    "price": 55000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 121,
+    "description": "Hosszú farmert, és szürke pólót viselö, 178 centi magas, kopasz, tetovált fehér börü férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 122,
+    "description": "Hosszú barna farmert, fekete pólót, és kendőt viselö 180centi magas, tetovált fehér börü férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 123,
+    "description": "Hosszú fekete farmert, fekete-sárga mintás pulóvert és napszemüveget viselö 179centi magas, japán származású férfi.",
+    "price": 24000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 124,
+    "description": "Hosszú fekete nadrágot, és fekete pólót viselö, 191centi magas, izmos, fehér börű férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 125,
+    "description": "Hosszú fekete nadrágot, és fekete pulóver viselö, 185centi magas, szakálas, fehér börü férfi.",
+    "price": 11000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 126,
+    "description": "Hosszú fekete nadrágot, fekete pulóver viselö, és aranyláncot viselö, 185centi magas, fehér börü férfi.",
+    "price": 11000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 127,
+    "description": "Hosszú barna nadrágot, barna kabátot, és kék inget viselö, 187centi magas, fehér börü férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 128,
+    "description": "Hosszú kék farmert, világosbarna pólót viselő, hosszú hajú, 190centi magas, fehér börü férfi.",
+    "price": 8000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 129,
+    "description": "Sötétbarna dreszt viselö, 170centi magas, ösz hajú, szemüveges, fehér börü idös nö.",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 130,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 131,
+    "description": "Hosszú kék farmert, sötétbarna toppot, és baseball sapkát viseö szines börü fiatal nö.",
+    "price": 7000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 132,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 133,
+    "description": "Hosszú fekete farmert, szürke mintás pólót, és piros basebal sapkát viselö izmos férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 134,
+    "description": "Rövid kopott farmert, piszkos fehér pólót, és kopott baseball sapkát viselö, szines börü férfi.",
+    "price": 1000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 135,
+    "description": "Rövid foltozott farmert, vörös kabátot, és vörös téli sapkát viselö, szörös hasú fehér börü férfi.",
+    "price": 1200,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 136,
+    "description": "Hosszú barna csőgatyát, világosbarna pulóvert, és jamaicai zászlós sapkát viselö, szines börü öreg férfi.",
+    "price": 3000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 137,
+    "description": "Félig szakadt kék farmert, sötétzöld pólót, kesztyűt, KEEP OUT-os dobozt a fején viselö hajláktalan férfi.",
+    "price": 500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 138,
+    "description": "Világoskék bikinit, és fekete napszemüveget viselö, fehér börü fiatal nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 139,
+    "description": "Világossárga bikinit viselö, sötét börü fiatal nö.",
+    "price": 3000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 140,
+    "description": "Piros bikinit, és fekete napszemüveget viselö, szines börü fiatal nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 141,
+    "description": "Fekete harisnyát, fekete szoknyát, és fekete kosztümöt viselö, fehér börü szemüveges fiatal nö.",
+    "price": 34000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 142,
+    "description": "Sötétszürke melegitöt, szines rövidújú szines pulóvert, és szines sapkát viselö, szines börü férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 143,
+    "description": "Világosbarna nadrágot, fehér pólót, kigombolt kék inget, napszemüveget, és hajhálót viselö, szines börü férfi.",
+    "price": 13000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 144,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 145,
+    "description": "Sztripitiz táncos külsejü, orvosi maszkot viselö, fehér börü fiatal nö.",
+    "price": 500,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 146,
+    "description": "Fekete rövidnadrágot, aranyláncot, és orvosi maszkot viselö, félmesztelen fehér börü férfi.",
+    "price": 2000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 147,
+    "description": "Fekete ünneplönadrágot, és öltönyt viselő, szakállas fehér börü férfi.",
+    "price": 55000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 148,
+    "description": "Kékeszöld dresszt, és fehér trikót viselő, szines börü nö.",
+    "price": 27000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 149,
+    "description": "Nincs leirás",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 150,
+    "description": "Világoszürke, csíkos szoknyát, és blúzt viselő, szines börü nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 151,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 152,
+    "description": "Fehér harisnyát, piros kockás miniszoknyát, és fekete kivágott pólót viselő, szöke hajú, fehér börü fiatal nö.",
+    "price": 9000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 153,
+    "description": "Fekete ünneplönadrágot, öltönyt, és fehér sisakot viselő fehér börü férfi.",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 154,
+    "description": "Sötétkék rövidnadrágot viselő, félmesztelen fehér börü férfi.",
+    "price": 1200,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 155,
+    "description": "Cuckin Bell  egyenruhát viselő, fehér börü férfi.",
+    "price": 1,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 156,
+    "description": "Fekete nadrágot, fehér vékony pulóvert, kék inget, és szemüveget viselő, szines börü öreg férfi.",
+    "price": 8000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 157,
+    "description": "Sötétkék kantáros farmert, és sötétzöld pólót viselő, haját coffban hordó fehér börü nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 158,
+    "description": "Szürke kantáros farmert, sárga -fekete kockás inget, és szalmakalapon viselö, fehér börü öreg férfi.",
+    "price": 13000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 159,
+    "description": "Sötétbarna kantáros farmert, és piros -fekete kockás sapkát viselő, szörös mellü, fehér börü férfi.",
+    "price": 3000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 160,
+    "description": "Világosbarna rövidnadrágot, fehér trikót, és piros kockás inget viselő fehér bőrű öreg férfi.",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 161,
+    "description": "Fekete farmert, sárga trikót, piros -fekete kockás inget, és barna kalapot viselő fehér börü férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 162,
+    "description": "Spárgával átkötött nadrágot viselő, félmeztelen fehér börü öreg férfi.",
+    "price": 100,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 163,
+    "description": "Fekete ünneplönadrágot, és öltönyt viselö, szines börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 164,
+    "description": "Fekete ünneplönadrágot, és öltönyt viselö, fehér börü szöke férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 165,
+    "description": "Fekete ünneplönadrágot, és öltönyt viselö, fehér börü öreg férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 166,
+    "description": "Fekete ünneplönadrágot, és öltönyt viselö, szines börü öreg férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 167,
+    "description": "Cuckin Bell  egyenruhát viselő, fehér börü férfi.",
+    "price": 1,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 168,
+    "description": "Sötétbarna rövidnadrágot, szürke pólót, sapkát, és piszkos fehér kötényt viselö szines börü férfi.",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 169,
+    "description": "Fekete eggyüttest viselö, vasalt hajó szines börü fiatal nö.",
+    "price": 21000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 170,
+    "description": "Koptatott farmert, piros pólót, és fekete hosszú ujjú pulóvert viselö fehér börü.",
+    "price": 27000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 171,
+    "description": "Fekete ünnepönadrágot, fekete mellényt, és fehér inget viselö fehér börü férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 172,
+    "description": "Fekete ünnepö nadrágot, fekete mellényt, és fehér inget viselö fehér börü nö.",
+    "price": 40000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 173,
+    "description": "Kantáros farmert, kék kendöt, és fehér kalapot viselö, erősen tetkózott, kreol börü férfi.",
+    "price": 16000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 174,
+    "description": "Sötétbarna farmert, fehér pólót, kék kendőt, aranyláncot, és napszemüveget viselö, erösen tetkózott, kreol börü férfi.",
+    "price": 60000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 175,
+    "description": "Fekete kantáros farmert, kék inget, és kendőt viselö, erösen tetkózott, kreol börü férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 176,
+    "description": "Fekete nadrágot, fekete pulóvert, és világoskék inget viselö, 180cm magas, szines börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 177,
+    "description": "Fekete nadrágot, fehér pulóvert, és világoskék inget viselö, 180cm magas, fehér börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 178,
+    "description": "Sado-Mazo öltözetben lévö, maszkot viselö, 174centi magas kreol börü fiatal nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 179,
+    "description": "Fekete farmert, világosbarna trikót, és döbcédulákat viselö, fehér börü férfi.",
+    "price": 6000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 180,
+    "description": "Szürke farmert, és piros-fekete-fehér mezt viselö, szines börü férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 181,
+    "description": "Fekete kopott farmert, fekete mellényt, és barna mintás pólót viselö fehérbörü punk férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 182,
+    "description": "Szürke rövidnadrágot, fehér pólót, és kék csikos inget viselö szinesbörü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 183,
+    "description": "Hosszú farmert, és barna kockás inget viselö szines börü férfi.",
+    "price": 6000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 184,
+    "description": "Szürke koptatott farmert, és és csikos pulóvert videsö ferér börü férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 185,
+    "description": "Fekete nadrágot, csikos inget, és napszemüveget viselö szines börü férfi.",
+    "price": 22000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 186,
+    "description": "Barna ünneplönadrágot, fehér inget, és barna öltönyt viselö fehér börü férfi.",
+    "price": 18000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 187,
+    "description": "Ünneplönadrágot, öltönyt, és piros nyakkendöt viselö fehér börü elegáns férfi.",
+    "price": 41000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 188,
+    "description": "Szürke koptatott farmert, és zöld pólót viselö fehér börü férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 189,
+    "description": "Feke ünneplönadrágot, fehér inget, és piros mellényt viselö fehér börü férfi.",
+    "price": 28000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 190,
+    "description": "Fekete hosszú nadrágot, és piros toppot viselö szines börü férfi.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 191,
+    "description": "Barna hosszú farmert, és libafos szinü pólót viselö fehér börü nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 192,
+    "description": "Hosszó fekete farmert, és fekete kivágott pólót viselö, fehér börü raszta nö.",
+    "price": 20000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 193,
+    "description": "Szürke mackónadrágot, és piros toppot viselö kreol börü fiatal nö.",
+    "price": 18000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 194,
+    "description": "Fekete ünneplönadrágot, fehér inget, és fekete mellényt viselö fehér börü nö.",
+    "price": 32000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 195,
+    "description": "Fehér deszkásnadrágot, mezt, és kendöt viselö szines börü nö.",
+    "price": 14000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 196,
+    "description": "Barna szoknyát, és libafos szinü blúzt viselö, fehér börü öregasszony.",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 197,
+    "description": "Barna szoknyát, és libafos szinü blúzt viselö, fehér börü túlsúlyos öregasszony.",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 198,
+    "description": "Hosszú szürke farmert, fekete toppot, és barna cowboy kalapot viselö fehér börü nö.",
+    "price": 16000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 199,
+    "description": "Rózsaszín viág mintás eggyütest viselö fehér börü nö.",
+    "price": 3000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 200,
+    "description": "Fekete szakadt kantáros nadrágot viselö, szakálas fehér börü férfi.",
+    "price": 2000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 201,
+    "description": "Hosszú szürke farmert, bordó kockás toppot, és baseball sapkát viselö fehér börü nö.",
+    "price": 9000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 202,
+    "description": "Hosszú fekete farmert, szürke mintás pólót, és baseball sapkát viselö fehér börü férfi.",
+    "price": 9000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 203,
+    "description": "Piros övet, és karatés ruhát viselö fehér börü férfi.",
+    "price": 6000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 204,
+    "description": "Piros övet, és karatés ruhát viselö szakálas fehér börü férfi.",
+    "price": 6000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 205,
+    "description": "Chuncki n bell egyenruhát viselö fehér börü nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 206,
+    "description": "Hosszú fekete farmert, és barna pólót viselö fehér börü férfi.",
+    "price": 8000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 207,
+    "description": "Fekete miniszoknyát, és zöld toppot viselö kreol börü nö.",
+    "price": 8000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 208,
+    "description": "Nincs leirás",
+    "price": 60000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 209,
+    "description": "Hosszú barna nadrágot, és Chucki n bell egyenruhát viselö fehér börü öreg férfi.",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 210,
+    "description": "Fekete nadrágoz, és öreg rongyos inget viselö fehér börü férfi.",
+    "price": 6000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 211,
+    "description": "Hosszú fekete farmert, fehete pólót, és fehér vékony pulóvert viselö kreol börü nö.",
+    "price": 22000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 212,
+    "description": "Rövid, szakadt, szines nadrágot, barna pulovert, és egy táblát a nyakában viselö fehér börü férfi.",
+    "price": 1200,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 213,
+    "description": "Szürke szakadt együttest viselö, dús mellszörrel rendelkezö fehér börü férfi.",
+    "price": 1800,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 214,
+    "description": "Fehér együttest viselö kreol börü nö.",
+    "price": 6800,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 215,
+    "description": "Fehér nadrágot, sárga inget és barna kalapot viselö szines börü nö.",
+    "price": 3700,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 216,
+    "description": "Lila együttest, és egy arany karkötöt viselö kreol börü fiatal nö.",
+    "price": 17000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 217,
+    "description": "Fekete koptatott farmert, és pólót viselö közepkoru szakálas férfi.",
+    "price": 13000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 218,
+    "description": "Kockás szoknyát, rózsaszín inget, és bordó mellényt viselö szines börü öreg nö.",
+    "price": 3100,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 219,
+    "description": "Piros miniszoknyát, és piros dresszt viselö, szines börü fiatal nö.",
+    "price": 28000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 220,
+    "description": "Barna rövidnadragot, szines pólót, és szines arab sapkát viselö szines börü férfi.",
+    "price": 3000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 221,
+    "description": "Szürke nadrágot, és fehér inget viselő szines börü férfi.",
+    "price": 22000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 222,
+    "description": "Fekete koptatott farmert, és szines pólót viselö, szines börü férfi.",
+    "price": 6500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 223,
+    "description": "Barna farmert, lila inget, aranyláncot, és arany karkötöt viselö kreol börü férfi.",
+    "price": 32000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 224,
+    "description": "Fekete nadrágot, fekete- sárga mintás pólót, és aranykarkötöt viselö fehér börü nö.",
+    "price": 9000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 225,
+    "description": "Szürke farmert, és mintás pulóvert viselö öreg hölgy.",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 226,
+    "description": "Fekete miniszoknyát, és rózsaszín toppot viselő fiatal nö.",
+    "price": 13000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 227,
+    "description": "Fekete ünneplönadrágot és fekete öltönyt viselö kopasz férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 228,
+    "description": "Fekete ünneplönadrágot és fekete öltönyt viselö férfi.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 229,
+    "description": "Fekete farmert, és fehér inget viselö öreg férfi.",
+    "price": 6200,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 230,
+    "description": "Fekete szakadt farmert, és fekete pulóvert viselö valószinüleg hajléktalan férfi.",
+    "price": 1000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 231,
+    "description": "Bordó- fekete kockás rövidnadrágot, és zöld pólót viselö öreg nö.",
+    "price": 1000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 232,
+    "description": "Barna szoknyát, és bordó- fekete kockás pulóvert viselö öreg hölgy.",
+    "price": 3100,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 233,
+    "description": "Fekete farmert, és fehér pólót viselö fiatal nö.",
+    "price": 18000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 234,
+    "description": "Koptatott farmert, világosbarna mintás pólót, és fekete napszemüveget viselö öreg férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 235,
+    "description": "Világosbarna nadrágot, és fehér- fekete mintás inget viselö öreg férfi.",
+    "price": 3700,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 236,
+    "description": "Barna farmert, fehér trikót, és olajzöld inget viselö öreg férfi.",
+    "price": 18000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 237,
+    "description": "Fekete neccharisnyát, fekete miniszoknyát, és leopárd mintás toppot viselö kreol börü nö.",
+    "price": 17000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 238,
+    "description": "Barna neccharisnyát, és barna együttest viselö szines börü nö.",
+    "price": 12000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 239,
+    "description": "Fekete farmert, fehér pólót, és bordó kockás inget viselö öreg férfi.",
+    "price": 2000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 240,
+    "description": "Fekete ünneplönadrágot, fehér inget, és fekete mellényt viselö középkorú férfi.",
+    "price": 24000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 241,
+    "description": "Barna nadrágot, és fekete inget viselö erösen tetkózott afro férfi.",
+    "price": 13000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 242,
+    "description": "Fekete farmert, fehér trikót, napszemüveget, és fekete kalapot viselö fehér börü férfi.",
+    "price": 13000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 243,
+    "description": "Fekete  szoknyát, és piros toppot viselö kreol börü nö.",
+    "price": 7000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 244,
+    "description": "Fehér neccharisnyát, tangát, és melltartót viselö szines börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 245,
+    "description": "Piros szoknyát, és fehér toppot viselö szines börü nö.",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 246,
+    "description": "Fekete neccharisnyát, tangát, és rendör egyenruhát viselö fehér börü nö.",
+    "price": 27000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 247,
+    "description": "Barna farmert, fehér pólót, fekete mellényt, és fekete sapkát viselö középkorú férfi.",
+    "price": 11000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 248,
+    "description": "Kék farmert, barna pólót, fekete mellényt, és piros kedöt viselö fehér börü férfi.",
+    "price": 11000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 249,
+    "description": "Öltönyt, piros nyakkendöt, napszemüveget, kalapot, és bokáig érö bundát viselö szines börü férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 250,
+    "description": "Fekete koptatott farmert, libafos szinü pólót, és vékony fekete pulóvert viselö fehér börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 251,
+    "description": "Piros fürdőruhát viselö fehér börü nö.",
+    "price": 600,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 252,
+    "description": "Szivecskés alsónadrágot viselö fehér börü férfi.",
+    "price": 600,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 253,
+    "description": "Fekete taxis egyenruhát viselö szines börü öreg férfi.",
+    "price": 30000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 254,
+    "description": "Barna farmert, fehér pólót, fekete mellényt, és fekete sapkát viselö, fehér börü férfi.",
+    "price": 8500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 255,
+    "description": "Ünneplönadrágot, öltönyt, és taxis kapalot viselö középkorú bajszos férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 256,
+    "description": "Fehér neccharisnyát, fehér bugyit, miniszoknyát, és fehér toppot viselö szinesbörü fiatal nö.",
+    "price": 14000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 257,
+    "description": "Barna neccharisnyát, fekete tangát, és bőr füzöt viselö, fehérbörü fiatal nö.",
+    "price": 11000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 258,
+    "description": "Világosbarna nadrágot, és szürke kockás inget viselö, krelol börü férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 259,
+    "description": "Világosbarna nadrágot, és világoskék inget viselö fehér börü férfi.",
+    "price": 10000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 260,
+    "description": "Munkásruhában lévő, szinesbörü férfi.",
+    "price": 5000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 261,
+    "description": "Koptatott farmert, kockás inget, és baseball sapkát viselö fehérbörü férfi.",
+    "price": 8000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 262,
+    "description": "Szürke rövidnadrágot, fehér pólót, és zöld csíkos inget viselö, szines börü férfi.",
+    "price": 7000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 263,
+    "description": "Fekete alapon, sárga mintás együttest viselö kreol börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 264,
+    "description": "Bóhóc jelmezt viselö fehér börü férfi.",
+    "price": 5000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 265,
+    "description": "Rendör egyenruhát viselö szines börü férni.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 266,
+    "description": "Rendör egyenruhat viselö fehér börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 267,
+    "description": "Rendör egyenruhat viselö középkorú, kreol börü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 268,
+    "description": "Nincs leirás",
+    "price": 3500,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 269,
+    "description": "Szürke farmert, zöld polót viselö kalapos szinesbörü férfi.",
+    "price": 17000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 270,
+    "description": "Fekete farmert, zöld pulóvert és baseball sapkát viselö szinesbörü férfi.",
+    "price": 23000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 271,
+    "description": "Sötét nadrágot, zöld dzsekit és sapkát viselö szinesbörü férfi.",
+    "price": 22000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 272,
+    "description": "Barna dzsekit, szürke felsőt, és  barna nadrágot viselö férfi.",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 273,
+    "description": "Nincs leirás",
+    "price": 32000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 274,
+    "description": "Fehér szinü mentös egyenruhát viselö szinesbörü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 275,
+    "description": "Kék szinü mentösegyenruhát viselö szinesbörü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 276,
+    "description": "Zöld szinü mentösegyenruhát viselö férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 277,
+    "description": "Világosbarna szinü tüzoltóegyenruhát viselö férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 278,
+    "description": "Barna szinü tüzoltó egyenruhát viselö színesbörü férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 279,
+    "description": "Fekete tüzöltó egyenruhát viselö férfi",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 280,
+    "description": "Fekete rendöregyenruhát viselö férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 281,
+    "description": "Fekete rendör egyenruhát viselö bajszos férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 282,
+    "description": "Vajszinü rendöregyenruhát viselö férfi.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 283,
+    "description": "Fekete felsöt, és vajszinü nadrágot viselö kalapos rendör.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 284,
+    "description": "Motoros rendöregyenruhát és bukósisakot viselö rendör.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 285,
+    "description": "Kommandós ruhát viselö különleges alakulati tag.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 286,
+    "description": "FBI-os dzsekit viselö szövetségi ügynök.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 287,
+    "description": "Terepszinü együttest viselö katona.",
+    "price": 40000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 288,
+    "description": "Vajszinü ruhát viselö kalapos rendör.",
+    "price": 20000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 289,
+    "description": "Nincs leirás",
+    "price": 15000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 290,
+    "description": "Világos nadrágot, fekete felsöt viselö szemüveges férfi",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 291,
+    "description": "Fekete nadrágot, fehér atlétát és farmermellényt viselö férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 292,
+    "description": "Világosszürke farmert és fehér atlétát viselö latin férfi",
+    "price": 35000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 293,
+    "description": "Barna farmert, és aranyláncot viselö erösen tetovált szines börü férfi.",
+    "price": 135000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 294,
+    "description": "Fekete öltönyt és nadrágot viselö, szemüveges ázsiai férfi.",
+    "price": 70000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 295,
+    "description": "Öltönyt, hosszú barna bársony nadrágot, és piros nyakkendöt viselö középkorú férfi.",
+    "price": 50000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 296,
+    "description": "Lila öltönyt és öltönynadrágot viselö szinesbörü férfi.",
+    "price": 45000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 297,
+    "description": "Farmert és kék Madd Dogg feliratú pulóvert viselö szinesbörü férfi.",
+    "price": 25000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 298,
+    "description": "Farmert és topot viselö kreol börü nö.",
+    "price": 10000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 299,
+    "description": "Fekete dzsekit, olivaszinü farmert viselö fehérbörü magas férfi.",
+    "price": 12000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 300,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 301,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 302,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 303,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 304,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 305,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 306,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 307,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 308,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 309,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": true,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 310,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  },
+  {
+    "gta_id": 311,
+    "description": "Nincs leirás",
+    "price": 4000,
+    "sex": false,
+    "dl_id": null,
+    "base_id": null,
+    "dff_path": null,
+    "txd_path": null
+  }
+]

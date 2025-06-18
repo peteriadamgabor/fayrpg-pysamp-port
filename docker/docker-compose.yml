@@ -1,0 +1,50 @@
+name: fay-rpg
+services:
+  omp:
+    ports:
+      - "7777:7777"
+    volumes:
+      - /home/adam/Asztal/faypy:/mod
+    image: python32b:latest
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: fayrpg
+      POSTGRES_DB: fayrpg
+      POSTGRES_PASSWORD: ${PG_PASS}
+    volumes:
+      - postgres_fay:/var/lib/postgresql/data
+    expose:
+      - "5433"
+    ports:
+      - "1041:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U fayrpg -d fayrpg" ]
+      interval: 1s
+      timeout: 5s
+      retries: 10
+
+  surrealdb:
+    entrypoint:
+      - /surreal
+      - start
+      - --user
+      - $SR_USER
+      - --pass
+      - $SR_PASS
+    image: surrealdb/surrealdb:latest
+    ports:
+      - "1042:8000"
+
+volumes:
+  postgres_fay:
+    external: true
+    name: postgres_fay
+  surreal_fay:
+    external: true
+    name: surreal_fay
